@@ -1,0 +1,68 @@
+course name,module,video duration,content type,url
+Intro to Java Programming,Introduction,0:39,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831
+Intro to Java Programming,Introducing Kylie,0:31,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427100
+Intro to Java Programming,What Is Programming?,1:05,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508589
+Intro to Java Programming,Java,1:23,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508590
+Intro to Java Programming,"Hello, World",0:25,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217
+Intro to Java Programming,"Hello, World",0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218
+Intro to Java Programming,"Hello, World",0:41,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297219
+Intro to Java Programming,Downloading BlueJ,1:10,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489299
+Intro to Java Programming,Downloading BlueJ,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+Intro to Java Programming,Downloading BlueJ,0:23,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489301
+Intro to Java Programming,Downloading the Course Code,0:28,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489303
+Intro to Java Programming,Downloading the Course Code,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489304
+Intro to Java Programming,Downloading the Course Code,0:14,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489305
+Intro to Java Programming,"Hello, Udacity!",2:09,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592
+Intro to Java Programming,Creating a Test Project,1:45,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618
+Intro to Java Programming,"Hello World, Two Lines",0:19,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+Intro to Java Programming,"Hello World, Two Lines",0:00,programming,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+Intro to Java Programming,"Hello World, Two Lines",0:57,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482
+Intro to Java Programming,Text and Numbers,0:13,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976483
+Intro to Java Programming,Text and Numbers,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+Intro to Java Programming,Text and Numbers,0:38,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484
+Intro to Java Programming,Our First Program,2:32,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474
+Intro to Java Programming,print and println,0:09,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976485
+Intro to Java Programming,print and println,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715
+Intro to Java Programming,print and println,0:41,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976486
+Intro to Java Programming,Errors,2:31,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475
+Intro to Java Programming,Errors,0:00,mcq,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177120576
+Intro to Java Programming,Errors,0:40,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177079651
+Intro to Java Programming,Compile-Time and Runtime Errors,0:22,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976487
+Intro to Java Programming,Compile-Time and Runtime Errors,0:00,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-177051170
+Intro to Java Programming,Compile-Time and Runtime Errors,0:50,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976488
+Intro to Java Programming,Compile-Time and Runtime Errors 2,0:20,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976489
+Intro to Java Programming,Compile-Time and Runtime Errors 2,0:00,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176586304
+Intro to Java Programming,Compile-Time and Runtime Errors 2,0:33,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976490
+Intro to Java Programming,Kylie's Advice When You Run into Errors,0:31,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427103
+Intro to Java Programming,Algorithms,1:25,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476
+Intro to Java Programming,Algorithms,0:00,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176671251
+Intro to Java Programming,Algorithms,0:36,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976477
+Intro to Java Programming,Algorithms 2,0:28,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976478
+Intro to Java Programming,Algorithms 2,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924
+Intro to Java Programming,Algorithms 2,2:11,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479
+Intro to Java Programming,Tidying Legos,2:22,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+Intro to Java Programming,Tidying Legos,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+Intro to Java Programming,Tidying Legos,0:56,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177079653
+Intro to Java Programming,What Does This Pseudocode Print?,0:38,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491
+Intro to Java Programming,What Does This Pseudocode Print?,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+Intro to Java Programming,What Does This Pseudocode Print?,1:16,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976492
+Intro to Java Programming,Another Pseudocode Example,0:28,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976493
+Intro to Java Programming,Another Pseudocode Example,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506
+Intro to Java Programming,Another Pseudocode Example,1:46,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976494
+Intro to Java Programming,Move to the First Yellow-Blue Lego,0:49,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976495
+Intro to Java Programming,Move to the First Yellow-Blue Lego,0:00,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+Intro to Java Programming,Move to the First Yellow-Blue Lego,2:03,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496
+Intro to Java Programming,Why Is This Not a Correct Algorithm?,0:29,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976497
+Intro to Java Programming,Why Is This Not a Correct Algorithm?,0:00,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795
+Intro to Java Programming,Why Is This Not a Correct Algorithm?,0:43,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976498
+Intro to Java Programming,What Does This Algorithm Do?,0:24,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499
+Intro to Java Programming,What Does This Algorithm Do?,0:00,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-177034270
+Intro to Java Programming,What Does This Algorithm Do?,0:52,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500
+Intro to Java Programming,Kylie's Advice for You,0:48,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101
+Intro to Java Programming,Congratulations,0:26,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830
+Intro to Java Programming,Question 1 - First Contributor to BlueJ,0:00,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109
+Intro to Java Programming,Question 2 - Secret Code,0:00,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035
+Intro to Java Programming,Question 3 - What Is the Output?,0:00,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265356/m-211265357
+Intro to Java Programming,Question 4 - Hours per Week on Class,0:00,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+Intro to Java Programming,This Isn't a Real Lesson,0:00,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-208887248/m-218771108
+Intro to Java Programming,Exercise 0,0:00,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-208887248/e-213343457/m-213343458
