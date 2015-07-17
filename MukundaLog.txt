@@ -1,0 +1,753 @@
+Name/ID 	email 	uRl.eventdata.eventData 	uRl.eventdata.eventTime 	uRl.eventdata.eventtype 	uRl.url
+id=4519577509691392 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:19:22 	Tab 	https://www.google.co.in/
+id=4719596821020672 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 00:19:22 	Window 	
+id=5587382078275584 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:19:22 	Tab 	https://www.google.co.in/
+id=6626104349556736 	mukundareddy94@gmail.com 	Window Created 	14/07/2015 00:19:22 	Window 	
+id=5602380104073216 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (772, 111) A [Tag Name :A] undefined 	14/07/2015 00:19:25 	Mouse 	https://www.google.co.in/
+id=4807020880330752 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:19:26 	Tab 	https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?tab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#identifier
+id=6110948792205312 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:19:34 	Tab 	https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/?tab%3Dwm&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#password
+id=5197214364205056 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:19:39 	Tab 	https://accounts.google.com/ServiceLoginAuth
+id=6545164080250880 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:19:42 	Tab 	https://mail.google.com/mail/u/0/?tab=wm
+id=6504074128130048 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:19:44 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5845496727863296 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:19:52 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e88aabcce7f42d
+id=6323114271047680 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 00:19:59 	Window 	
+id=6713281985118208 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:20:20 	Tab 	http://www.glassdoor.co.in/partner/jobListing.htm?pos=101&ao=43297&s=224&guid=0000014e872a341d9f0f7e9701ca990a&src=GD_JOB_AD&t=JA&extid=1370&exst=OL&ist=&ast=OL&vt=e&ja=17135918&uido=143CC128203908E4013A5980878A7C9D&slr=false&cb=1436786767538&jobListingId=1507503229&utm_medium=email&utm_source=jobalert&utm_campaign=jobAlertAlert&utm_content=ja-jobtitle&encryptedUserId=143CC128203908E4013A5980878A7C9D
+id=5019467142660096 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:20:21 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e88aabcce7f42d
+id=5087692698157056 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:20:23 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5050263668785152 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:20:35 	Tab 	http://www.glassdoor.co.in/partner/jobListing.htm?pos=101&ao=43297&s=224&guid=0000014e872a341d9f0f7e9701ca990a&src=GD_JOB_AD&t=JA&extid=1370&exst=OL&ist=&ast=OL&vt=e&ja=17135918&uido=143CC128203908E4013A5980878A7C9D&slr=false&cb=1436786767538&jobListingId=1507503229&utm_medium=email&utm_source=jobalert&utm_campaign=jobAlertAlert&utm_content=ja-jobtitle&encryptedUserId=143CC128203908E4013A5980878A7C9D
+id=5282546774441984 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:20:36 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5230955627282432 	mukundareddy94@gmail.com 	Window Created 	14/07/2015 00:20:45 	Window 	
+id=5239249209131008 	mukundareddy94@gmail.com 	Window normal 	14/07/2015 00:20:45 	Window 	
+id=6157480467890176 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:20:45 	Tab 	https://plus.google.com/hangouts/_/CONVERSATION/Ugw8Eb1M-eL-hg5ll194AaABAQ?hl=en&hscid=1436813445076616911&hpe=124nrbu93dh2be&hpn=Veda%20Vyas&hisdn=Veda&hnc=0&hs=38
+id=4585410768404480 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:20:47 	Tab 	https://plus.google.com/hangouts/_/gzxwbwtqjzaewmztuezeyihq5ma?hl=en
+id=6145367049502720 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 00:20:49 	Window 	
+id=4915739387494400 	mukundareddy94@gmail.com 	Tab Closed 	14/07/2015 00:20:53 	Tab 	https://plus.google.com/hangouts/_/gzxwbwtqjzaewmztuezeyihq5ma?hl=en
+id=5854307316400128 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 00:20:53 	Window 	
+id=6213592604999680 	mukundareddy94@gmail.com 	Window Closed 	14/07/2015 00:20:53 	Window 	
+id=4608653520797696 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 00:20:56 	Window 	
+id=4937648015671296 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:20:56 	Tab 	http://www.glassdoor.co.in/partner/jobListing.htm?pos=101&ao=43297&s=224&guid=0000014e872a341d9f0f7e9701ca990a&src=GD_JOB_AD&t=JA&extid=1370&exst=OL&ist=&ast=OL&vt=e&ja=17135918&uido=143CC128203908E4013A5980878A7C9D&slr=false&cb=1436786767538&jobListingId=1507503229&utm_medium=email&utm_source=jobalert&utm_campaign=jobAlertAlert&utm_content=ja-jobtitle&encryptedUserId=143CC128203908E4013A5980878A7C9D
+id=5150197357215744 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:21:02 	Tab 	http://www.glassdoor.co.in/job-listing/web-developer-JV_IC2865319_KO0,13_IE693691.htm?jl=1507503229&utm_source=jobalert&utm_medium=email&utm_content=ja-jobtitle&utm_campaign=jobAlertAlert
+id=6228070939754496 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:21:03 	Tab 	http://www.glassdoor.co.in/job-listing/web-developer-JV_IC2865319_KO0,13_IE693691.htm?jl=1507503229&utm_source=jobalert&utm_medium=email&utm_content=ja-jobtitle&utm_campaign=jobAlertAlert
+id=4674486779510784 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 00:21:07 	Tab 	http://www.glassdoor.co.in/job-listing/web-developer-JV_IC2865319_KO0,13_IE693691.htm?jl=1507503229&utm_source=jobalert&utm_medium=email&utm_content=ja-jobtitle&utm_campaign=jobAlertAlert
+id=6356855534125056 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 00:21:08 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=6365149115973632 	mukundareddy94@gmail.com 	Tab Closed 	14/07/2015 00:21:08 	Tab 	http://www.glassdoor.co.in/job-listing/web-developer-JV_IC2865319_KO0,13_IE693691.htm?jl=1507503229&utm_source=jobalert&utm_medium=email&utm_content=ja-jobtitle&utm_campaign=jobAlertAlert
+id=4949480650571776 	mukundareddy94@gmail.com 	Tab Closed 	14/07/2015 00:21:10 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5594530514468864 	mukundareddy94@gmail.com 	Window Closed 	14/07/2015 00:21:10 	Window 	
+id=5500402011209728 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:15:22 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=4726148256759808 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:15:25 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ad9e06589d76
+id=5051219835879424 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (477, 245) TD [Tag Name :TD] undefined 	14/07/2015 10:15:58 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ad9e06589d76
+id=5993179178336256 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:15:58 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5792183298818048 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (220, 159) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (220, 159) DIV [Tag Name :DIV] undefined 	14/07/2015 10:16:00 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5229233345396736 	mukundareddy94@gmail.com 	Tab Closed [TabID:107] 	14/07/2015 10:16:11 	Tab 	
+id=6416834752413696 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:16:12 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=6250920165769216 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:16:43 	Tab 	
+id=5009459868860416 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (919, 713) SPAN [Tag Name :SPAN] undefined MOUSE3: Mouse clicked! (919, 713) SPAN [Tag Name :SPAN] undefined 	14/07/2015 10:16:44 	Mouse 	
+id=6135359775703040 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:16:48 	Tab 	https://inbox.google.com/u/0/?pli=1
+id=6190567285325824 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:19:10 	Tab 	https://www.udacity.com/course/viewer?utm_campaign=welcome_cs101&utm_source=sendgrid&utm_medium=email#!/c-cs101/l-299053470/e-298929650/m-298929651
+id=5123355422228480 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (59, 383) SPAN [Tag Name :SPAN] undefined 	14/07/2015 10:19:12 	Mouse 	https://www.udacity.com/course/viewer?utm_campaign=welcome_cs101&utm_source=sendgrid&utm_medium=email#!/c-cs101/l-299053470/e-298929650/m-298929651
+id=6355133252239360 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:19:14 	Tab 	https://www.udacity.com/course/viewer#!/c-cs101
+id=5450355441664000 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:19:15 	Tab 	https://www.udacity.com/course/viewer#!/c-cs101/l-48299949
+id=6255885147963392 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:19:20 	Tab 	https://www.udacity.com/course/viewer#!/c-cs101/l-48299949/m-48698544
+id=5278526685052928 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (323, 303) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (270, 302) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (203, 296) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (139, 302) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (205, 209) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (205, 209) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (205, 209) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (205, 209) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (536, 158) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (221, 295) DIV [Tag Name :DIV] undefined 	14/07/2015 10:19:52 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs101/l-48299949/m-48698544
+id=5430229224914944 	mukundareddy94@gmail.com 	> Introduction	14/07/2015 10:19:52 	Selected 	https://www.udacity.com/course/viewer#!/c-cs101/l-48299949/m-48698544
+id=6200050573115392 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:19:52 	Tab 	https://www.udacity.com/course/viewer#!/c-cs101/l-48299949
+id=6576255348506624 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:19:52 	Tab 	https://www.udacity.com/course/viewer#!/c-cs101
+id=4662144654114816 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:19:55 	Tab 	https://inbox.google.com/u/0/?pli=1
+id=6249255329071104 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:19:55 	Tab 	https://www.udacity.com/course/viewer?utm_campaign=welcome_cs101&utm_source=sendgrid&utm_medium=email#!/c-cs101/l-299053470/e-298929650/m-298929651
+id=4728650612080640 	mukundareddy94@gmail.com 	idle 	14/07/2015 10:20:57 	Screen 	https://inbox.google.com/u/0/?pli=1
+id=6176634411417600 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:22:03 	Tab 	https://www.udacity.com/course/viewer?utm_campaign=welcome_cs101&utm_source=sendgrid&utm_medium=email#!/c-cs101/l-299053470/e-298929650/m-298929651
+id=6177119742722048 	mukundareddy94@gmail.com 	active 	14/07/2015 10:22:03 	Screen 	https://inbox.google.com/u/0/?pli=1
+id=6626301918052352 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (641, 179) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (641, 179) A [Tag Name :A] undefined 	14/07/2015 10:22:07 	Mouse 	https://www.udacity.com/course/viewer?utm_campaign=welcome_cs101&utm_source=sendgrid&utm_medium=email#!/c-cs101/l-299053470/e-298929650/m-298929651
+id=5788044560957440 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:22:10 	Tab 	https://www.udacity.com/account/auth#!/signin
+id=4585608336900096 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:22:22 	Tab 	https://inbox.google.com/u/0/?pli=1
+id=5167067988754432 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined 	14/07/2015 10:22:22 	Mouse 	https://www.udacity.com/account/auth#!/signin
+id=5723536836526080 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:22:23 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=6556129131757568 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:22:24 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4
+id=4609589823668224 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (317, 252) SPAN [Tag Name :SPAN] undefined MOUSE3: Mouse clicked! (317, 252) SPAN [Tag Name :SPAN] undefined 	14/07/2015 10:22:26 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4
+id=4997051708342272 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:22:27 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=6292967895597056 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (322, 558) SPAN [Tag Name :SPAN] undefined MOUSE3: Mouse clicked! (322, 558) SPAN [Tag Name :SPAN] undefined 	14/07/2015 10:22:27 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4
+id=5735489730510848 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:22:33 	Tab 	https://www.python.org/downloads/
+id=6016028404350976 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (575, 385) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (575, 385) A [Tag Name :A] undefined 	14/07/2015 10:22:33 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=4947758368686080 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:22:36 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5289098210181120 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:22:40 	Tab 	https://www.python.org/downloads/
+id=5564021751152640 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (0, 0) BUTTON [Tag Name :BUTTON]	14/07/2015 10:22:40 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5639601901273088 	mukundareddy94@gmail.com 	MOUSE2: [object HTMLInputElement]~ modTest: [text]	14/07/2015 10:22:40 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5369167674867712 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:22:44 	Tab 	https://www.python.org/downloads/
+id=5373681685495808 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:22:50 	Window 	
+id=4956331123408896 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (296, 400) A [Tag Name :A] undefined 	14/07/2015 10:23:09 	Mouse 	https://www.python.org/downloads/
+id=5404830398939136 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:23:09 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5854550518923264 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:23:09 	Window 	
+id=4552485549113344 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:23:15 	Window 	
+id=5627617331904512 	mukundareddy94@gmail.com 	locked 	14/07/2015 10:23:39 	Screen 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=6414998117023744 	mukundareddy94@gmail.com 	active 	14/07/2015 10:23:42 	Screen 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5872567906729984 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:24:59 	Tab 	https://pip.pypa.io/en/latest/installing.html
+id=5918575596404736 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (374, 442) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (374, 442) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (374, 442) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (374, 442) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (590, 465) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (590, 465) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (590, 465) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (590, 465) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (590, 465) A [Tag Name :A] undefined 	14/07/2015 10:24:59 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=6753517238747136 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:24:59 	Window 	
+id=4885593012043776 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:25:02 	Tab 	https://pip.pypa.io/en/latest/installing.html
+id=5453078450929664 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:25:02 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5560001661763584 	mukundareddy94@gmail.com 	Tab Closed 	14/07/2015 10:25:02 	Tab 	https://pip.pypa.io/en/latest/installing.html
+id=6082231030251520 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:26:08 	Window 	
+id=4848510264410112 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (392, 553) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (392, 553) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (392, 553) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (392, 553) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (392, 553) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (616, 327) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (616, 327) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (616, 327) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (616, 327) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (616, 327) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (573, 399) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (573, 399) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (573, 399) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (573, 399) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (573, 399) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (573, 399) A [Tag Name :A] undefined 	14/07/2015 10:26:11 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=6499581592338432 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:26:11 	Window 	
+id=6698309729124352 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:26:11 	Tab 	http://docs.python-guide.org/en/latest/starting/install/win/
+id=5007623233470464 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:26:23 	Tab 	http://docs.python-guide.org/en/latest/starting/install/win/
+id=6530730305781760 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:26:29 	Tab 	https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
+id=6011492918886400 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:26:31 	Tab 	https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
+id=5225094607536128 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:26:39 	Tab 	http://docs.python-guide.org/en/latest/starting/install/win/
+id=4505015959945216 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:26:50 	Window 	
+id=6298439683932160 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:29:11 	Window 	
+id=6578978357772288 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:29:11 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5448542965465088 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:29:13 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/
+id=6685901568606208 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (362, 517) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (362, 517) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (362, 517) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (362, 517) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (362, 517) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (362, 517) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (362, 517) A [Tag Name :A] undefined 	14/07/2015 10:29:13 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=6495067581710336 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:29:39 	Window 	
+id=4843545282215936 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:29:53 	Window 	
+id=4726541783138304 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:29:55 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/pywin32-219.win32-py2.7.exe/download
+id=5974410171252736 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:29:57 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/
+id=5852441689980928 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:30:02 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/pywin32-219.win32-py2.7.exe/download
+id=5486407397146624 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:30:07 	Window 	
+id=4539654871187456 	mukundareddy94@gmail.com 	locked 	14/07/2015 10:30:16 	Screen 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/pywin32-219.win32-py2.7.exe/download
+id=5519281076830208 	mukundareddy94@gmail.com 	active 	14/07/2015 10:30:18 	Screen 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/pywin32-219.win32-py2.7.exe/download
+id=4837868946063360 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:30:40 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/
+id=6285736781283328 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:30:40 	Window 	
+id=4552063031705600 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:30:41 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/pywin32-219.win32-py2.7.exe/download
+id=6612307303989248 	mukundareddy94@gmail.com 	Tab Closed [TabID:133] 	14/07/2015 10:30:42 	Tab 	
+id=6739584364838912 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:30:42 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/
+id=5160586883104768 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:30:43 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5355625642983424 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (394, 599) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (394, 599) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (394, 599) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (394, 599) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (394, 599) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (394, 599) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (394, 599) A [Tag Name :A] undefined 	14/07/2015 10:30:48 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5630915866787840 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:30:48 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5309617953308672 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:31:03 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4665480233091072 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:31:35 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5678385455955968 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (451, 450) DIV [Tag Name :DIV] undefined 	14/07/2015 10:31:35 	Mouse 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4701142957162496 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:31:49 	Window 	
+id=4744855523688448 	mukundareddy94@gmail.com 	idle 	14/07/2015 10:38:42 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5076651947851776 	mukundareddy94@gmail.com 	active 	14/07/2015 10:39:17 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5510708322107392 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (810, 103) SPAN [Tag Name :SPAN] undefined MOUSE3: Mouse clicked! (810, 103) SPAN [Tag Name :SPAN] undefined MOUSE3: Mouse clicked! (796, 184) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (796, 184) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (796, 184) DIV [Tag Name :DIV] undefined 	14/07/2015 10:39:23 	Mouse 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5289491736559616 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:39:29 	Tab 	https://www.dropbox.com/s/jo1jqsbdrbdy7a7/3-%2022-06-2015%20-%20CALL%20LETTER.pdf
+id=6286486789947392 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:39:40 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6636608228950016 	mukundareddy94@gmail.com 	idle 	14/07/2015 10:40:39 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4669994243719168 	mukundareddy94@gmail.com 	active 	14/07/2015 10:42:16 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5345669908791296 	mukundareddy94@gmail.com 	locked 	14/07/2015 10:43:10 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6689921657995264 	mukundareddy94@gmail.com 	active 	14/07/2015 10:43:11 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5115435502534656 	mukundareddy94@gmail.com 	locked 	14/07/2015 10:43:18 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6471569815633920 	mukundareddy94@gmail.com 	active 	14/07/2015 10:43:20 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6350994514378752 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:48:57 	Window 	
+id=6435517860151296 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:48:57 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5067965913366528 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (597, 500) A [Tag Name :A] undefined 	14/07/2015 10:49:03 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5411460217831424 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 10:49:03 	Tab 	http://www.microsoft.com/en-us/download/details.aspx?id=44266
+id=6417500472344576 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:49:10 	Tab 	http://www.microsoft.com/en-us/download/details.aspx?id=44266
+id=5307805477109760 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 10:49:21 	Tab 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=5102604824608768 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 10:49:23 	Window 	
+id=6228504731451392 	mukundareddy94@gmail.com 	idle 	14/07/2015 10:51:03 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=4595914647797760 	mukundareddy94@gmail.com 	active 	14/07/2015 10:51:06 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=5026330500399104 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 10:52:22 	Window 	
+id=5573075542212608 	mukundareddy94@gmail.com 	locked 	14/07/2015 10:53:25 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=6193865820209152 	mukundareddy94@gmail.com 	active 	14/07/2015 10:53:25 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=6133916666691584 	mukundareddy94@gmail.com 	locked 	14/07/2015 10:54:14 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=6698975449055232 	mukundareddy94@gmail.com 	active 	14/07/2015 10:54:16 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=5196155117895680 	mukundareddy94@gmail.com 	locked 	14/07/2015 10:54:23 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=5730387309363200 	mukundareddy94@gmail.com 	active 	14/07/2015 10:54:25 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=6240912891969536 	mukundareddy94@gmail.com 	idle 	14/07/2015 10:59:07 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=4707772776054784 	mukundareddy94@gmail.com 	active 	14/07/2015 10:59:10 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=5077122783641600 	mukundareddy94@gmail.com 	locked 	14/07/2015 11:02:09 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=5570966713270272 	mukundareddy94@gmail.com 	active 	14/07/2015 11:02:09 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=4519915201495040 	mukundareddy94@gmail.com 	idle 	14/07/2015 11:03:26 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=5991272212856832 	mukundareddy94@gmail.com 	active 	14/07/2015 11:03:27 	Screen 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=4552728751636480 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:03:33 	Window 	
+id=5270722729476096 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:03:34 	Window 	
+id=5795894150561792 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:03:34 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5358126924562432 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:03:41 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4
+id=5591092930019328 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (976, 114) DIV [Tag Name :DIV] undefined 	14/07/2015 11:03:41 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5384079801319424 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:03:49 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5158864601219072 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (242, 167) DIV [Tag Name :DIV] undefined 	14/07/2015 11:03:53 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=4833538008416256 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:03:54 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae15703db656
+id=6322055024738304 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:04:59 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=6233518568898560 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:05:04 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent/14e888a0f333aed0
+id=6696866620112896 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:05:15 	Window 	
+id=4914680141185024 	mukundareddy94@gmail.com 	else else else else else else else else else From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir? From tomorrow I will be starting JAVA. Anything else you want me to do sir?	14/07/2015 11:05:18 	Selected 	https://mail.google.com/mail/u/0/?tab=wm#sent/14e888a0f333aed0
+id=6011862286073856 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:05:18 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=5570573186891776 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (231, 173) DIV [Tag Name :DIV] undefined 	14/07/2015 11:05:22 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=5786214904889344 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:05:22 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent/14e720e470f0e82a
+id=5223264951468032 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:05:28 	Window 	
+id=5633741955268608 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:05:31 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=5645815108337664 	mukundareddy94@gmail.com 	Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM Time.  : 07.28 AM	14/07/2015 11:05:31 	Selected 	https://mail.google.com/mail/u/0/?tab=wm#sent/14e720e470f0e82a
+id=4982617933873152 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:05:34 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6203022690484224 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (236, 167) DIV [Tag Name :DIV] undefined 	14/07/2015 11:05:34 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=5396910479245312 	mukundareddy94@gmail.com 	idle 	14/07/2015 11:06:40 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6108517840715776 	mukundareddy94@gmail.com 	active 	14/07/2015 11:07:45 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6579914660642816 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:09:06 	Window 	
+id=4514658161524736 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:09:07 	Window 	
+id=6696473093734400 	mukundareddy94@gmail.com 	locked 	14/07/2015 11:09:25 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5640558068367360 	mukundareddy94@gmail.com 	active 	14/07/2015 11:30:18 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6232524820840448 	mukundareddy94@gmail.com 	active 	14/07/2015 11:30:47 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6671467794137088 	mukundareddy94@gmail.com 	locked 	14/07/2015 11:30:47 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5506569584246784 	mukundareddy94@gmail.com 	idle 	14/07/2015 11:36:40 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4680392359542784 	mukundareddy94@gmail.com 	active 	14/07/2015 11:36:43 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5589280453820416 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:36:44 	Window 	
+id=6632469491089408 	mukundareddy94@gmail.com 	idle 	14/07/2015 11:37:50 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4795647806930944 	mukundareddy94@gmail.com 	active 	14/07/2015 11:37:54 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4702807793860608 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:38:22 	Window 	
+id=5678628658479104 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:22 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/
+id=6574812239495168 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:22 	Tab 	http://docs.python-guide.org/en/latest/starting/install/win/
+id=6567961766658048 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:23 	Tab 	http://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+id=4630774212984832 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:25 	Tab 	http://sourceforge.net/projects/pywin32/files/pywin32/Build%20219/
+id=5115678705057792 	mukundareddy94@gmail.com 	Tab Closed [TabID:137] 	14/07/2015 11:38:25 	Tab 	
+id=5477630094606336 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:25 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6522387868680192 	mukundareddy94@gmail.com 	Tab Closed [TabID:141] 	14/07/2015 11:38:25 	Tab 	
+id=6059313084760064 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:26 	Tab 	http://docs.python-guide.org/en/latest/starting/install/win/
+id=6555933173874688 	mukundareddy94@gmail.com 	Tab Closed [TabID:129] 	14/07/2015 11:38:26 	Tab 	
+id=5133246731911168 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:27 	Tab 	https://www.python.org/downloads/
+id=5496363131338752 	mukundareddy94@gmail.com 	Tab Closed [TabID:125] 	14/07/2015 11:38:27 	Tab 	
+id=4692800520060928 	mukundareddy94@gmail.com 	Tab Closed [TabID:117] 	14/07/2015 11:38:28 	Tab 	
+id=5828707700703232 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:28 	Tab 	https://inbox.google.com/u/0/?pli=1
+id=5313277265444864 	mukundareddy94@gmail.com 	Tab Closed [TabID:109] 	14/07/2015 11:38:29 	Tab 	
+id=5593815939284992 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:29 	Tab 	https://www.udacity.com/account/auth#!/signin
+id=4570746139443200 	mukundareddy94@gmail.com 	Window normal 	14/07/2015 11:38:32 	Window 	
+id=4738374418038784 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:38:32 	Tab 	https://accounts.google.com/o/oauth2/auth?response_type=code&immediate=false&client_id=72069832843-ji15b2fqekfntf5q1k9q0pboieao8hfa.apps.googleusercontent.com&scope=profile%20email&foo=bar&include_granted_scopes=true&proxy=oauth2relay631015341&redirect_uri=postmessage&origin=https%3A%2F%2Fwww.udacity.com&state=2089921741%7C0.3248575036&authuser=0
+id=4825149937287168 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (497, 569) BUTTON [Tag Name :BUTTON]	14/07/2015 11:38:32 	Mouse 	https://accounts.google.com/o/oauth2/auth?response_type=code&immediate=false&client_id=72069832843-ji15b2fqekfntf5q1k9q0pboieao8hfa.apps.googleusercontent.com&scope=profile%20email&foo=bar&include_granted_scopes=true&proxy=oauth2relay631015341&redirect_uri=postmessage&origin=https%3A%2F%2Fwww.udacity.com&state=2089921741%7C0.3248575036&authuser=0
+id=4989247752765440 	mukundareddy94@gmail.com 	MOUSE2: [object HTMLInputElement]~ : [email] [object HTMLInputElement]~ : [password]	14/07/2015 11:38:32 	Mouse 	https://accounts.google.com/o/oauth2/auth?response_type=code&immediate=false&client_id=72069832843-ji15b2fqekfntf5q1k9q0pboieao8hfa.apps.googleusercontent.com&scope=profile%20email&foo=bar&include_granted_scopes=true&proxy=oauth2relay631015341&redirect_uri=postmessage&origin=https%3A%2F%2Fwww.udacity.com&state=2089921741%7C0.3248575036&authuser=0
+id=5349440890077184 	mukundareddy94@gmail.com 	Window Created 	14/07/2015 11:38:32 	Window 	
+id=4736652136153088 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:38:33 	Window 	
+id=4951469220429824 	mukundareddy94@gmail.com 	Window Closed 	14/07/2015 11:38:33 	Window 	
+id=5113176349736960 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:38:33 	Tab 	https://accounts.google.com/o/oauth2/auth?response_type=code&immediate=false&client_id=72069832843-ji15b2fqekfntf5q1k9q0pboieao8hfa.apps.googleusercontent.com&scope=profile%20email&foo=bar&include_granted_scopes=true&proxy=oauth2relay631015341&redirect_uri=postmessage&origin=https%3A%2F%2Fwww.udacity.com&state=2089921741%7C0.3248575036&authuser=0
+id=6067689881600000 	mukundareddy94@gmail.com 	Tab Closed 	14/07/2015 11:38:33 	Tab 	https://accounts.google.com/o/oauth2/auth?response_type=code&immediate=false&client_id=72069832843-ji15b2fqekfntf5q1k9q0pboieao8hfa.apps.googleusercontent.com&scope=profile%20email&foo=bar&include_granted_scopes=true&proxy=oauth2relay631015341&redirect_uri=postmessage&origin=https%3A%2F%2Fwww.udacity.com&state=2089921741%7C0.3248575036&authuser=0
+id=6115147659608064 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:38:33 	Window 	
+id=6239076256579584 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:38:43 	Window 	
+id=5806292266385408 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (58, 310) SPAN [Tag Name :SPAN] undefined 	14/07/2015 11:38:46 	Mouse 	null
+id=6719715846127616 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (56, 328) A [Tag Name :A] undefined 	14/07/2015 11:38:49 	Mouse 	null
+id=4789317025136640 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (56, 307) SPAN [Tag Name :SPAN] undefined 	14/07/2015 11:38:50 	Mouse 	null
+id=5864274324881408 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (753, 97) A [Tag Name :A] undefined 	14/07/2015 11:38:57 	Mouse 	null
+id=4591775909937152 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:39:02 	Tab 	https://www.udacity.com/courses/all
+id=4745224890875904 	mukundareddy94@gmail.com 	i n t r o [SPACEBAR] t o [SPACEBAR] j a v a 	14/07/2015 11:39:13 	Key 	https://www.udacity.com/courses/all
+id=5077608114946048 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (546, 173) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (569, 583) A [Tag Name :A] undefined 	14/07/2015 11:39:13 	Mouse 	https://www.udacity.com/courses/all
+id=5818700426903552 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:39:16 	Tab 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=5243342312964096 	mukundareddy94@gmail.com 	MOUSE2: MOUSE2:	14/07/2015 11:40:17 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=6715180360663040 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (879, 269) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (879, 269) BUTTON [Tag Name :BUTTON]	14/07/2015 11:40:17 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=5255750473482240 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:40:20 	Tab 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=5951049844129792 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:40:43 	Window 	
+id=5154725863358464 	mukundareddy94@gmail.com 	FREE FREE FREE FREE FREE	14/07/2015 11:41:17 	Selected 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=5301324371460096 	mukundareddy94@gmail.com 	MOUSE2: [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text]	14/07/2015 11:41:17 	Mouse 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=6343289343049728 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (119, 308) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (296, 458) STRONG [Tag Name :STRONG] undefined MOUSE3: Mouse clicked! (296, 458) STRONG [Tag Name :STRONG] undefined MOUSE3: Mouse clicked! (921, 104) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (852, 201) A [Tag Name :A] undefined 	14/07/2015 11:41:17 	Mouse 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=6203508021788672 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (919, 106) A [Tag Name :A] undefined 	14/07/2015 11:41:21 	Mouse 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=4573469148708864 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:41:23 	Tab 	https://www.udacity.com/account/auth#!/signup
+id=5113569876115456 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:41:38 	Window 	
+id=4831701373026304 	mukundareddy94@gmail.com 	MOUSE2: [object HTMLInputElement]~ : mukunda [text] [object HTMLInputElement]~ : reddy [text] [object HTMLInputElement]~ : mukunda_reddy@srmuniv.edu.in [email] [object HTMLInputElement]~ : 8122169229 [password]	14/07/2015 11:42:12 	Mouse 	https://www.udacity.com/account/auth#!/signup
+id=5504739928178688 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (351, 284) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (359, 441) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (0, 0) BUTTON [Tag Name :BUTTON]	14/07/2015 11:42:12 	Mouse 	https://www.udacity.com/account/auth#!/signup
+id=6678097613029376 	mukundareddy94@gmail.com 	m u k u n d a [TAB] r e d d y [TAB] m u k u n d a _ [SHIFT] r e d d y @ [SHIFT] s r m u n i v . e d u . i m [BACKSPACE] n i w i l l [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] 8 1 2 2 1 6 9 2 2 9 [ENTER] 	14/07/2015 11:42:12 	Key 	https://www.udacity.com/account/auth#!/signup
+id=4726345825255424 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:42:16 	Tab 	https://www.udacity.com/me#!/
+id=4873250886647808 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (363, 380) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (774, 114) A [Tag Name :A] undefined 	14/07/2015 11:42:28 	Mouse 	https://www.udacity.com/me#!/
+id=6061814366339072 	mukundareddy94@gmail.com 	MOUSE2:	14/07/2015 11:42:28 	Mouse 	https://www.udacity.com/me#!/
+id=5364340131627008 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:42:30 	Tab 	https://www.udacity.com/courses/all
+id=5299602089574400 	mukundareddy94@gmail.com 	i n t r o [SPACEBAR] t o [SPACEBAR] j a v a 	14/07/2015 11:42:50 	Key 	https://www.udacity.com/courses/all
+id=6381650380324864 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (565, 182) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (661, 587) A [Tag Name :A] undefined 	14/07/2015 11:42:50 	Mouse 	https://www.udacity.com/courses/all
+id=5852245732098048 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:42:52 	Tab 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=5031802288734208 	mukundareddy94@gmail.com 	MOUSE2:	14/07/2015 11:42:53 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=5193724166406144 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (818, 447) BUTTON [Tag Name :BUTTON]	14/07/2015 11:42:53 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=5957601279868928 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:42:55 	Tab 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=6369242219806720 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:43:00 	Window 	
+id=4834203728347136 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:43:02 	Window 	
+id=5921547713773568 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:43:02 	Window 	
+id=6603530001448960 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (683, 327) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (178, 247) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (178, 247) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (136, 393) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (136, 393) BUTTON [Tag Name :BUTTON]	14/07/2015 11:45:08 	Mouse 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=4974698014179328 	mukundareddy94@gmail.com 	MOUSE2: [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] MOUSE2: [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] MOUSE2: [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] MOUSE2: [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] MOUSE2: [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text] [object HTMLInputElement]~ : [text]	14/07/2015 11:45:09 	Mouse 	https://www.udacity.com/checkout#!/0?products=4788162343206912
+id=6475340796919808 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:45:11 	Tab 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=4961867336253440 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (899, 190) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (899, 190) BUTTON [Tag Name :BUTTON]	14/07/2015 11:45:18 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=6239469782958080 	mukundareddy94@gmail.com 	MOUSE2: MOUSE2:	14/07/2015 11:45:18 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=6319624073248768 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:45:21 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046
+id=5999150793490432 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:45:26 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143
+id=5388099890708480 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:45:29 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831
+id=5133696092864512 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:46:41 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=5694833570086912 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (810, 693) DIV [Tag Name :DIV] undefined 	14/07/2015 11:46:41 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831
+id=5957994806247424 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:46:41 	Window 	
+id=4773942652829696 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (117, 211) DIV [Tag Name :DIV] undefined 	14/07/2015 11:46:48 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=6100597921021952 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:46:48 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent?compose=new
+id=5131883616665600 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:46:55 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent?compose=14e8b358351159ce
+id=5308174844297216 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:46:57 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=6434074751139840 	mukundareddy94@gmail.com 	idle 	14/07/2015 11:48:05 	Screen 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=5395044852826112 	mukundareddy94@gmail.com 	active 	14/07/2015 11:49:32 	Screen 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=4584070738608128 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:49:33 	Window 	
+id=5026699867586560 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:49:35 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831
+id=6484497667194880 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:49:35 	Window 	
+id=6520944759668736 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:49:45 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427100
+id=6663547874443264 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:50:18 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508589
+id=6415195685519360 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:51:25 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508590
+id=5899842559672320 	mukundareddy94@gmail.com 	idle 	14/07/2015 11:52:31 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508590
+id=4984282770571264 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:52:49 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217
+id=4691357411049472 	mukundareddy94@gmail.com 	active 	14/07/2015 11:52:54 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217
+id=4637404031877120 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:53:15 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218
+id=5771653355143168 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (300, 570) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (300, 570) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (300, 570) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (300, 570) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (300, 570) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (300, 570) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (300, 570) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (672, 663) BUTTON [Tag Name :BUTTON]	14/07/2015 11:53:38 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218
+id=6259595999707136 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:53:38 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297219
+id=6523053588611072 	mukundareddy94@gmail.com 	h e l l o [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] H [SHIFT] e l l o , [SPACEBAR] W [SHIFT] o r l d ! [SHIFT] 	14/07/2015 11:53:38 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218
+id=6157702195576832 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:54:22 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489299
+id=5018127112863744 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:54:58 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5152896207290368 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:55:00 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5763303938719744 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:55:00 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489299
+id=5336892606251008 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:55:33 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=6110182677413888 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (473, 636) DIV [Tag Name :DIV] undefined 	14/07/2015 11:55:33 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489299
+id=4912249189695488 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:55:34 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5594752242155520 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:55:59 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=4660652689850368 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:56:06 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=6038149096538112 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:56:18 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8
+id=6562100746911744 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:56:19 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=5976308546797568 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 11:56:23 	Tab 	https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAAahUKEwjVs-vU_tnGAhVDC44KHSnIAKU&url=http%3A%2F%2Fwww.oracle.com%2Ftechnetwork%2Fjava%2Fjavase%2Fdownloads%2Fjdk7-downloads-1880260.html&ei=jKukVdW9B8OWuASpkIOoCg&usg=AFQjCNEYpDVMZ2ThTEsVm4gGXhm8qYsnbA&sig2=JKNjWPLEtimXniHS7DyZJQ&bvm=bv.97653015,d.c2E
+id=6144027019706368 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:56:24 	Tab 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5475199143116800 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:57:19 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5709970645450752 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:57:19 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=6145749301592064 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 11:57:53 	Window 	
+id=4654910318575616 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 11:57:54 	Tab 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5922033045078016 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 11:57:54 	Window 	
+id=5200353985298432 	mukundareddy94@gmail.com 	idle 	14/07/2015 11:59:33 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5007820801966080 	mukundareddy94@gmail.com 	active 	14/07/2015 12:00:03 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=6650717196517376 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:02:56 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5817257317892096 	mukundareddy94@gmail.com 	active 	14/07/2015 12:04:15 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=6635805070065664 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:04:22 	Window 	
+id=5589649821007872 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:04:23 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=5748754200133632 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:04:23 	Window 	
+id=5208703401721856 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:04:25 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5581077066285056 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:04:26 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=5582799348170752 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:05:28 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=6326253892141056 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:06:55 	Tab 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5819366146834432 	mukundareddy94@gmail.com 	active 	14/07/2015 12:10:54 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=4595111488913408 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:11:10 	Window 	
+id=4852221116153856 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:11:10 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=6334603308564480 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:11:10 	Window 	
+id=6708699255013376 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (622, 139) H1 [Tag Name :H1] undefined 	14/07/2015 12:11:10 	Mouse 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=4684412448931840 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:11:13 	Window 	
+id=6601099049959424 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:11:25 	Window 	
+id=6720652148998144 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:11:25 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=6032041653043200 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:11:27 	Tab 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5956931264970752 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:11:50 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=5055417629540352 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:12:57 	Screen 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=5144519410450432 	mukundareddy94@gmail.com 	active 	14/07/2015 12:12:58 	Screen 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=5254307364470784 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:13:02 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5761823785615360 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:13:03 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=5413358593376256 	mukundareddy94@gmail.com 	Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading Downloading	14/07/2015 12:13:16 	Selected 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=6270419317293056 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:13:16 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=4797805491126272 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:13:27 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=5978121022996480 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:13:28 	Tab 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5256416193413120 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:13:57 	Window 	
+id=4732513398292480 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (343, 196) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (343, 196) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (343, 196) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (343, 196) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (339, 306) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (339, 306) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (339, 306) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (339, 306) INPUT [Tag Name :INPUT] on MOUSE3: Mouse clicked! (594, 561) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (594, 561) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (594, 561) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (594, 561) A [Tag Name :A] undefined 	14/07/2015 12:14:58 	Mouse 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5147020692029440 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:14:58 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=4927228425011200 	mukundareddy94@gmail.com 	active 	14/07/2015 12:15:05 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=4909105273634816 	mukundareddy94@gmail.com 	locked 	14/07/2015 12:15:27 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5537225450192896 	mukundareddy94@gmail.com 	active 	14/07/2015 12:15:28 	Screen 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=5217860271996928 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:16:58 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=6484982998499328 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:16:58 	Window 	
+id=6715549727850496 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:16:58 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5136419102130176 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:17:16 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20java%20jdk%20for%20windows%207%2064%20bit
+id=6382316100255744 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:17:30 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8
+id=4655395649880064 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:17:31 	Tab 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=download%20bluej%20for%20windows%207
+id=4863044433739776 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:17:33 	Tab 	http://www.bluej.org/
+id=4599625499541504 	mukundareddy94@gmail.com 	Tab Closed [TabID:176] 	14/07/2015 12:18:50 	Tab 	
+id=6706976973127680 	mukundareddy94@gmail.com 	Tab Closed [TabID:178] 	14/07/2015 12:18:50 	Tab 	
+id=5786552596692992 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:18:52 	Window 	
+id=4560730275708928 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:20:40 	Window 	
+id=6663125357035520 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:20:40 	Tab 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=6539258500218880 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:20:41 	Tab 	http://www.bluej.org/
+id=4709671151599616 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:21:53 	Screen 	http://www.bluej.org/
+id=5688352464437248 	mukundareddy94@gmail.com 	active 	14/07/2015 12:22:28 	Screen 	http://www.bluej.org/
+id=5125402511015936 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:23:39 	Window 	
+id=5547232723992576 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:23:39 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=6541070976417792 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:23:39 	Window 	
+id=4648579536781312 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:23:40 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=6053128331853824 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:24:12 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5725525406384128 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:24:13 	Tab 	http://www.bluej.org/
+id=5721011395756032 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:25:18 	Screen 	http://www.bluej.org/
+id=6343760178839552 	mukundareddy94@gmail.com 	active 	14/07/2015 12:34:20 	Screen 	http://www.bluej.org/
+id=4711483627798528 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:35:22 	Screen 	http://www.bluej.org/
+id=5618367582961664 	mukundareddy94@gmail.com 	active 	14/07/2015 12:35:49 	Screen 	http://www.bluej.org/
+id=5162575452962816 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:36:50 	Screen 	http://www.bluej.org/
+id=5758338956525568 	mukundareddy94@gmail.com 	active 	14/07/2015 12:37:46 	Screen 	http://www.bluej.org/
+id=6520551233290240 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:37:47 	Window 	
+id=6288475359805440 	mukundareddy94@gmail.com 	locked 	14/07/2015 12:38:16 	Screen 	http://www.bluej.org/
+id=6283961349177344 	mukundareddy94@gmail.com 	active 	14/07/2015 12:38:24 	Screen 	http://www.bluej.org/
+id=4904329270001664 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:38:38 	Window 	
+id=6030229176844288 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:38:52 	Window 	
+id=4881100476252160 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:38:53 	Window 	
+id=5195389003104256 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:38:53 	Tab 	https://www.udacity.com/wiki/cs046/bluej/install-windows
+id=5647528800288768 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:38:54 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=5084578846867456 	mukundareddy94@gmail.com 	Tab Closed [TabID:154] 	14/07/2015 12:38:55 	Tab 	
+id=5988944340582400 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:38:55 	Tab 	http://www.bluej.org/
+id=5272621105020928 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:38:56 	Tab 	http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+id=6098732294602752 	mukundareddy94@gmail.com 	Tab Closed [TabID:172] 	14/07/2015 12:38:56 	Tab 	
+id=5570770755387392 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 12:38:57 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=6398521011863552 	mukundareddy94@gmail.com 	Tab Closed [TabID:164] 	14/07/2015 12:38:57 	Tab 	
+id=4771511701340160 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:39:24 	Window 	
+id=5123680229130240 	mukundareddy94@gmail.com 	M [SHIFT] i c h e a l [SPACEBAR] k o l l i n g [ENTER] 	14/07/2015 12:40:05 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300
+id=6337429397045248 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:40:05 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489301
+id=4930054513491968 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:40:40 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489303
+id=6210478753710080 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 12:40:56 	Window 	
+id=6532777394569216 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 12:41:01 	Window 	
+id=4876586465624064 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (276, 651) A [Tag Name :A] undefined 	14/07/2015 12:41:09 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489303
+id=6349502550114304 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:41:09 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489304
+id=4936385295286272 	mukundareddy94@gmail.com 	[CTRL] 	14/07/2015 12:42:06 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489304
+id=5537891170123776 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:42:06 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489305
+id=6062285202128896 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:42:23 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592
+id=6696670662230016 	mukundareddy94@gmail.com 	idle 	14/07/2015 12:44:12 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592
+id=6262319008972800 	mukundareddy94@gmail.com 	active 	14/07/2015 12:44:53 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592
+id=4871421230579712 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:44:57 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618
+id=5439536419045376 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:47:30 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592
+id=6321288909946880 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 12:49:41 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618
+id=6298873475629056 	mukundareddy94@gmail.com 	locked 	14/07/2015 12:58:24 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=6392039906213888 	mukundareddy94@gmail.com 	active 	14/07/2015 13:34:15 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=5138334657544192 	mukundareddy94@gmail.com 	idle 	14/07/2015 13:35:40 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=5444050429673472 	mukundareddy94@gmail.com 	active 	14/07/2015 13:36:23 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=5848206852227072 	mukundareddy94@gmail.com 	idle 	14/07/2015 13:37:33 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=6068027573403648 	mukundareddy94@gmail.com 	active 	14/07/2015 13:37:57 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=6602763886657536 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 13:37:58 	Window 	
+id=4965887425642496 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 13:38:04 	Window 	
+id=5980844032262144 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 13:38:05 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=4518855955185664 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:38:09 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=5466856706015232 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (311, 165) DIV [Tag Name :DIV] undefined 	14/07/2015 13:38:09 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#sent
+id=5417894078840832 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:38:10 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=6569950336516096 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 13:38:17 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=4773176538038272 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (725, 204) DIV [Tag Name :DIV] undefined 	14/07/2015 13:38:34 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=5644755862028288 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:38:34 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=5505077619982336 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:38:40 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618
+id=5861748884111360 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (375, 266) A [Tag Name :A] undefined 	14/07/2015 13:38:40 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=6592756612857856 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 13:39:37 	Window 	
+id=6593179130265600 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:40:50 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=6264234564386816 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:41:10 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=4984665022660608 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:43:37 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482
+id=5113373918232576 	mukundareddy94@gmail.com 	[CTRL] 	14/07/2015 13:43:37 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=6702838235267072 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (196, 441) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (196, 441) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (196, 441) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (196, 441) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (280, 669) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (280, 669) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (280, 669) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (280, 669) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (280, 669) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 631) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 631) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 631) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 631) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 631) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 600) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 600) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 600) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 600) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (683, 600) BUTTON [Tag Name :BUTTON]	14/07/2015 13:43:37 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=5976677913985024 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined 	14/07/2015 13:44:37 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482
+id=5991445622161408 	mukundareddy94@gmail.com 	idle 	14/07/2015 13:44:37 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976483
+id=6663791076966400 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:44:37 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976483
+id=6344245510144000 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:44:50 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+id=5816863791513600 	mukundareddy94@gmail.com 	active 	14/07/2015 13:44:57 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+id=6560271090843648 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA]	14/07/2015 13:44:57 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+id=4623097495814144 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (345, 465) TEXTAREA [Tag Name :TEXTAREA] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (693, 602) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON]	14/07/2015 13:47:07 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+id=6460361561604096 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:47:07 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484
+id=4936870626590720 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (576, 504) BUTTON [Tag Name :BUTTON]	14/07/2015 13:47:13 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484
+id=5748997402656768 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:47:13 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+id=4730683742224384 	mukundareddy94@gmail.com 	[SPACEBAR] [RIGHTARROW] [RIGHTARROW] [SPACEBAR] [RIGHTARROW] [RIGHTARROW] [LEFTARROW] [SPACEBAR] [RIGHTARROW] [RIGHTARROW] [LEFTARROW] [SPACEBAR] 	14/07/2015 13:47:25 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+id=5904041427075072 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:47:25 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484
+id=5535782341181440 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (459, 629) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (379, 99) A [Tag Name :A] undefined 	14/07/2015 13:47:51 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484
+id=6017398498918400 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:47:51 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618
+id=5454448545497088 	mukundareddy94@gmail.com 	idle 	14/07/2015 13:48:58 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618
+id=6239273825075200 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:49:37 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481
+id=4556591537848320 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:49:57 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=5899076444880896 	mukundareddy94@gmail.com 	active 	14/07/2015 13:49:59 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=6618904373755904 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:50:12 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482
+id=6630977526824960 	mukundareddy94@gmail.com 	[BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] h e l l o [DOWNARROW] [RIGHTARROW] [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] w o r l d 	14/07/2015 13:50:12 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=4763591781646336 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:50:15 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=5081805908606976 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (601, 495) BUTTON [Tag Name :BUTTON]	14/07/2015 13:50:15 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482
+id=4856859680833536 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (554, 500) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (667, 504) BUTTON [Tag Name :BUTTON]	14/07/2015 13:50:20 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466
+id=5274433581219840 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:50:20 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482
+id=4578210792603648 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:51:18 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976483
+id=4590283945672704 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (413, 681) DIV [Tag Name :DIV] undefined 	14/07/2015 13:51:18 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482
+id=5982759587676160 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:51:32 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467
+id=5419809634254848 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:51:38 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484
+id=5253913838092288 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:52:19 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474
+id=5052986678050816 	mukundareddy94@gmail.com 	idle 	14/07/2015 13:54:02 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474
+id=6379813744934912 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:54:51 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976485
+id=5856583649067008 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:55:01 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715
+id=5186047449235456 	mukundareddy94@gmail.com 	active 	14/07/2015 13:55:08 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715
+id=5704110699446272 	mukundareddy94@gmail.com 	3 9 	14/07/2015 13:56:35 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715
+id=6311947356078080 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:56:35 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976486
+id=6207705815449600 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:57:18 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475
+id=5366053823578112 	mukundareddy94@gmail.com 	idle 	14/07/2015 13:58:53 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475
+id=5413727960563712 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 13:59:50 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177120576
+id=6110564929503232 	mukundareddy94@gmail.com 	active 	14/07/2015 13:59:53 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177120576
+id=5405155205840896 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:00:50 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177079651
+id=6062770533433344 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:01:32 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976487
+id=6539627867406336 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:01:55 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-177051170
+id=5293633695645696 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:02:09 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976488
+id=5499820580012032 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:03:02 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976489
+id=5682491444690944 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:03:22 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176586304
+id=4710040518787072 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:03:45 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976490
+id=5547614976081920 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:04:20 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427103
+id=6580348452339712 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:04:53 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476
+id=6625720486854656 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:06:04 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476
+id=6178886584893440 	mukundareddy94@gmail.com 	active 	14/07/2015 14:06:17 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476
+id=6419533602488320 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:06:20 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176671251
+id=4740362987896832 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:06:30 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976477
+id=5298798930690048 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:07:09 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976478
+id=6466991380496384 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:07:31 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976478
+id=5428495668740096 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:07:38 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924
+id=4831898941521920 	mukundareddy94@gmail.com 	active 	14/07/2015 14:08:49 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924
+id=5876661010563072 	mukundareddy94@gmail.com 	[BACKSPACE] 5 [LEFTARROW] [BACKSPACE] 2 [RIGHTARROW] [BACKSPACE] [BACKSPACE] 3 5 [LEFTARROW] 3 	14/07/2015 14:10:47 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924
+id=6554395575582720 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:10:47 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479
+id=4763169264238592 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:13:01 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+id=5054651514748928 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:13:33 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+id=6138058625777664 	mukundareddy94@gmail.com 	active 	14/07/2015 14:14:56 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+id=5926230838738944 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:15:24 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+id=5575108672356352 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:15:30 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+id=5363280885317632 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:16:30 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+id=5835940425629696 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:17:54 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+id=5866262894739456 	mukundareddy94@gmail.com 	active 	14/07/2015 14:17:55 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+id=5889069171081216 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:19:22 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177079653
+id=6413658087227392 	mukundareddy94@gmail.com 	b y 	14/07/2015 14:19:22 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+id=5313711057141760 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:20:16 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+id=5017323953979392 	mukundareddy94@gmail.com 	ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby ybybby bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb bybyyb 	14/07/2015 14:20:28 	Selected 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+id=5710926812545024 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:20:28 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177079653
+id=6452441641910272 	mukundareddy94@gmail.com 	b b b y y y b b y b y y 	14/07/2015 14:20:28 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009
+id=6520748801785856 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:21:26 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491
+id=5303312941318144 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:22:05 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=6143223860822016 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:23:12 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=5622566450364416 	mukundareddy94@gmail.com 	active 	14/07/2015 14:23:34 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=6429212848160768 	mukundareddy94@gmail.com 	1 	14/07/2015 14:23:34 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=4691161453166592 	mukundareddy94@gmail.com 	1 2 . 6 t o [SPACEBAR] f i n d [SPACEBAR] t o t a l [SPACEBAR] c o s t 	14/07/2015 14:25:01 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=5264417717485568 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:25:01 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976492
+id=4554761881780224 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:25:13 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=5100433181769728 	mukundareddy94@gmail.com 	12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 1.89 and 12.6 	14/07/2015 14:25:27 	Selected 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=5952043592187904 	mukundareddy94@gmail.com 	1 3 . 8 5 [BACKSPACE] 6 	14/07/2015 14:25:27 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577
+id=6259146638753792 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:25:27 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976492
+id=6273876765966336 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:26:44 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976493
+id=6390317624328192 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:26:54 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+id=4982942740774912 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:26:58 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976493
+id=4662366381801472 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:27:04 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480
+id=6748466357207040 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:27:05 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976493
+id=6098338768224256 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:27:35 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506
+id=5788266288644096 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:28:00 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976494
+id=5889734891012096 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:28:47 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506
+id=5021837964607488 	mukundareddy94@gmail.com 	1 0 [ENTER] 5 [ENTER] 1 6 [ENTER] 8 [ENTER] 4 [ENTER] 2 	14/07/2015 14:29:10 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506
+id=6108842647617536 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:29:11 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976494
+id=5963966421401600 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:30:59 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976495
+id=5528837379063808 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:31:42 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976495
+id=6741836538314752 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:31:49 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+id=6380011313430528 	mukundareddy94@gmail.com 	active 	14/07/2015 14:31:51 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+id=4972636429877248 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:33:31 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976495
+id=4516425003696128 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:34:21 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+id=5202252360843264 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:36:35 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976495
+id=4509860683055104 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:37:11 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+id=5823228933046272 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:40:13 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496
+id=6046677290975232 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:42:08 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+id=5962136765333504 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:43:50 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496
+id=5194048973307904 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:43:55 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+id=6066968327094272 	mukundareddy94@gmail.com 	s t o p [SPACEBAR] y o u [SPACEBAR] f o u n d [SPACEBAR] i t 	14/07/2015 14:44:07 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684
+id=6706173814243328 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:44:07 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496
+id=6040196185325568 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:46:13 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976497
+id=5399186811912192 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:46:16 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976497
+id=5917235566608384 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:46:44 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795
+id=6692631782359040 	mukundareddy94@gmail.com 	active 	14/07/2015 14:47:16 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795
+id=6028363550425088 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:47:22 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976498
+id=6680365355761664 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:48:07 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499
+id=5765571681452032 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:48:32 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-177034270
+id=5477246231904256 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:49:39 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500
+id=5408866057584640 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:50:33 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101
+id=5354285613187072 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:51:22 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830
+id=5821399276978176 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:51:30 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101
+id=6480185520029696 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:52:19 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830
+id=6223986425856000 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:52:49 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002
+id=4650598171410432 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:52:50 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109
+id=4761726155227136 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:53:31 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035
+id=5942511449145344 	mukundareddy94@gmail.com 	M [SHIFT] i c h a e l [SPACEBAR] K [SHIFT] o l l i n g 	14/07/2015 14:53:31 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109
+id=5154947591045120 	mukundareddy94@gmail.com 	[CTRL] 	14/07/2015 14:54:03 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035
+id=5324676108648448 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:54:03 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265356/m-211265357
+id=4995681613774848 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 14:55:24 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=6486749840670720 	mukundareddy94@gmail.com 	[CTRL] 	14/07/2015 14:55:24 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265356/m-211265357
+id=4815945822371840 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:57:47 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=4912573996597248 	mukundareddy94@gmail.com 	active 	14/07/2015 14:58:11 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=5941845729214464 	mukundareddy94@gmail.com 	1 	14/07/2015 14:58:11 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=6667653863178240 	mukundareddy94@gmail.com 	idle 	14/07/2015 14:59:29 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=5485539813752832 	mukundareddy94@gmail.com 	active 	14/07/2015 15:08:32 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=6516709921914880 	mukundareddy94@gmail.com 	idle 	14/07/2015 15:09:33 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=6414614254321664 	mukundareddy94@gmail.com 	active 	14/07/2015 15:09:52 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359
+id=4754781193109504 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 15:09:55 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800
+id=4830832179019776 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 15:09:55 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=5660793269911552 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 15:10:10 	Tab 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=6665824207110144 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 15:10:10 	Window 	
+id=5000423257669632 	mukundareddy94@gmail.com 	idle 	14/07/2015 15:24:23 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=6590919977467904 	mukundareddy94@gmail.com 	active 	14/07/2015 15:27:56 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=4956683310727168 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined MOUSE3: Mouse clicked! (0, 0) TR [Tag Name :TR] undefined 	14/07/2015 15:43:27 	Mouse 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=5784727235592192 	mukundareddy94@gmail.com 	idle 	14/07/2015 15:43:27 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=5815994597507072 	mukundareddy94@gmail.com 	active 	14/07/2015 15:46:12 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=5179703782539264 	mukundareddy94@gmail.com 	idle 	14/07/2015 15:54:04 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=6191950264795136 	mukundareddy94@gmail.com 	active 	14/07/2015 15:54:41 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=4886980286480384 	mukundareddy94@gmail.com 	idle 	14/07/2015 16:02:40 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=6731855034318848 	mukundareddy94@gmail.com 	active 	14/07/2015 16:06:25 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=6418812047982592 	mukundareddy94@gmail.com 	idle 	14/07/2015 16:07:42 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=5906309169807360 	mukundareddy94@gmail.com 	active 	14/07/2015 16:13:32 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=4532634210271232 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 16:14:32 	Window 	
+id=5377452666781696 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 16:15:35 	Window 	
+id=5393311296651264 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 16:16:32 	Window 	
+id=6012880193323008 	mukundareddy94@gmail.com 	idle 	14/07/2015 16:20:59 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=6503352573624320 	mukundareddy94@gmail.com 	active 	14/07/2015 16:21:22 	Screen 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson1.zip
+id=5545089535311872 	mukundareddy94@gmail.com 	Tab Closed [TabID:180] 	14/07/2015 16:21:27 	Tab 	
+id=5675742440456192 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 16:21:27 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=6231876280778752 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 16:21:27 	Window 	
+id=4971569667375104 	mukundareddy94@gmail.com 	idle 	14/07/2015 16:22:31 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=6482083895574528 	mukundareddy94@gmail.com 	active 	14/07/2015 16:30:08 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=4532831778766848 	mukundareddy94@gmail.com 	idle 	14/07/2015 16:31:13 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=6670989442154496 	mukundareddy94@gmail.com 	active 	14/07/2015 16:32:39 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=4957105828134912 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 16:32:42 	Window 	
+id=5925846976036864 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 16:35:08 	Window 	
+id=6629152165724160 	mukundareddy94@gmail.com 	idle 	14/07/2015 16:36:33 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=4944275150209024 	mukundareddy94@gmail.com 	active 	14/07/2015 16:37:57 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=4630295861002240 	mukundareddy94@gmail.com 	locked 	14/07/2015 16:38:11 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=5756195767844864 	mukundareddy94@gmail.com 	active 	14/07/2015 16:38:13 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=5112792487034880 	mukundareddy94@gmail.com 	locked 	14/07/2015 16:39:02 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=4807557751242752 	mukundareddy94@gmail.com 	active 	14/07/2015 18:58:12 	Screen 	https://www.google.co.in/
+id=6754900218216448 	mukundareddy94@gmail.com 	locked 	14/07/2015 18:58:12 	Screen 	https://www.google.co.in/
+id=5525362750521344 	mukundareddy94@gmail.com 	locked 	14/07/2015 18:58:28 	Screen 	https://www.google.co.in/
+id=5011437164429312 	mukundareddy94@gmail.com 	active 	14/07/2015 18:58:30 	Screen 	https://www.google.co.in/
+id=6550554264207360 	mukundareddy94@gmail.com 	locked 	14/07/2015 18:58:56 	Screen 	https://www.google.co.in/
+id=4689623854874624 	mukundareddy94@gmail.com 	active 	14/07/2015 18:58:58 	Screen 	https://www.google.co.in/
+id=5362897022615552 	mukundareddy94@gmail.com 	locked 	14/07/2015 19:01:28 	Screen 	https://www.google.co.in/
+id=6012214473392128 	mukundareddy94@gmail.com 	active 	14/07/2015 19:01:28 	Screen 	https://www.google.co.in/
+id=4720966915588096 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:11:50 	Screen 	https://www.google.co.in/
+id=4898228805828608 	mukundareddy94@gmail.com 	active 	14/07/2015 19:12:33 	Screen 	https://www.google.co.in/
+id=5846866822430720 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:14:10 	Screen 	https://www.google.co.in/
+id=6221484070535168 	mukundareddy94@gmail.com 	active 	14/07/2015 19:14:35 	Screen 	https://www.google.co.in/
+id=5891768021155840 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 19:15:33 	Window 	
+id=4824501397225472 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 19:15:35 	Window 	
+id=6238692393877504 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 19:15:36 	Tab 	https://www.google.co.in/
+id=5950401304068096 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 19:15:48 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4
+id=6195824325296128 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 19:15:49 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=5507225103630336 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 19:15:56 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4831317510324224 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 19:16:07 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5901447266828288 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 19:16:09 	Window 	
+id=4503925038252032 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:17:10 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6024128712671232 	mukundareddy94@gmail.com 	active 	14/07/2015 19:22:52 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5328818067734528 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 19:23:15 	Window 	
+id=5338497313406976 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 19:23:15 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=6454717974577152 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 19:23:44 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6137337071271936 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:24:46 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6487074647572480 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 19:31:01 	Window 	
+id=6703059962953728 	mukundareddy94@gmail.com 	active 	14/07/2015 19:31:01 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5283916869009408 	mukundareddy94@gmail.com 	locked 	14/07/2015 19:31:10 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5461178759249920 	mukundareddy94@gmail.com 	active 	14/07/2015 19:31:12 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5449930239901696 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 19:31:57 	Window 	
+id=5343359216386048 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:33:06 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5629824945094656 	mukundareddy94@gmail.com 	active 	14/07/2015 19:35:05 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4814109186981888 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 19:37:38 	Window 	
+id=5049172747091968 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 19:37:38 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4?projector=1
+id=6633125010472960 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 19:37:38 	Window 	
+id=5940009093824512 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 19:37:40 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox/14e8ae804b37f7e4
+id=6277308444835840 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 19:37:42 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5449264519970816 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (227, 171) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (322, 172) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (322, 172) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (322, 172) DIV [Tag Name :DIV] undefined 	14/07/2015 19:37:50 	Mouse 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5574387117850624 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 19:37:50 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5387451350646784 	mukundareddy94@gmail.com 	Tab Closed 	14/07/2015 19:37:54 	Tab 	chrome://newtab/
+id=5957217417166848 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 19:37:54 	Tab 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6243949433847808 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:38:56 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5658731685609472 	mukundareddy94@gmail.com 	active 	14/07/2015 19:40:04 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5815523761717248 	mukundareddy94@gmail.com 	Tab Closed [TabID:119] 	14/07/2015 19:40:06 	Tab 	
+id=6409816775852032 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 19:40:12 	Window 	
+id=6488796929458176 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 19:40:15 	Window 	
+id=4659209580838912 	mukundareddy94@gmail.com 	active 	14/07/2015 19:41:50 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4788449441742848 	mukundareddy94@gmail.com 	locked 	14/07/2015 19:41:50 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6575164426813440 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:44:10 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6083005734977536 	mukundareddy94@gmail.com 	active 	14/07/2015 19:44:22 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5933457658085376 	mukundareddy94@gmail.com 	idle 	14/07/2015 19:56:54 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6469259123228672 	mukundareddy94@gmail.com 	active 	14/07/2015 19:56:59 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=4869933561282560 	mukundareddy94@gmail.com 	locked 	14/07/2015 20:00:34 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5431218678005760 	mukundareddy94@gmail.com 	active 	14/07/2015 20:00:34 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5095781732188160 	mukundareddy94@gmail.com 	locked 	14/07/2015 20:02:50 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=6319145721266176 	mukundareddy94@gmail.com 	active 	14/07/2015 20:02:51 	Screen 	https://www.dropbox.com/s/93awpea3ilnuu7z/setup.exe?dl=0
+id=5002441892298752 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 20:04:33 	Window 	
+id=5066874991673344 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 20:04:34 	Window 	
+id=5799665131847680 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 20:04:34 	Tab 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=5995833468125184 	mukundareddy94@gmail.com 	locked 	14/07/2015 20:05:33 	Screen 	https://mail.google.com/mail/u/0/?tab=wm#inbox
+id=4657487298953216 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 20:55:34 	Tab 	https://www.google.co.in/
+id=4745577078194176 	mukundareddy94@gmail.com 	Tab Closed [TabID:139] 	14/07/2015 20:55:34 	Tab 	
+id=5432883514703872 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:55:46 	Tab 	https://www.udacity.com/course/viewer?utm_campaign=welcome_cs101&utm_source=sendgrid&utm_medium=email#!/c-cs101/l-299053470/e-298929650/m-298929651
+id=6651262657363968 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (753, 114) A [Tag Name :A] undefined 	14/07/2015 20:55:50 	Mouse 	https://www.udacity.com/course/viewer?utm_campaign=welcome_cs101&utm_source=sendgrid&utm_medium=email#!/c-cs101/l-299053470/e-298929650/m-298929651
+id=5236715178426368 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:55:52 	Tab 	https://www.udacity.com/courses/all
+id=5370507704664064 	mukundareddy94@gmail.com 	i n t r o [SPACEBAR] t o [SPACEBAR] j a v a 	14/07/2015 20:56:08 	Key 	https://www.udacity.com/courses/all
+id=5377059140403200 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (726, 184) INPUT [Tag Name :INPUT] MOUSE3: Mouse clicked! (671, 590) A [Tag Name :A] undefined 	14/07/2015 20:56:08 	Mouse 	https://www.udacity.com/courses/all
+id=6557118584848384 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:56:11 	Tab 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=5061884239675392 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (927, 275) BUTTON [Tag Name :BUTTON]	14/07/2015 20:56:14 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=6575830146744320 	mukundareddy94@gmail.com 	MOUSE2:	14/07/2015 20:56:14 	Mouse 	https://www.udacity.com/course/intro-to-java-programming--cs046
+id=6496407611506688 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:56:17 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800
+id=5534519620796416 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:56:26 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389501
+id=6502959047245824 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:57:00 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-212206534
+id=4673371698626560 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:57:26 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-179202991
+id=6187784146518016 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 20:59:05 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389502
+id=6558783421546496 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:01:27 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389502
+id=5785109487681536 	mukundareddy94@gmail.com 	active 	14/07/2015 21:02:53 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389502
+id=5222159534260224 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:03:42 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=4746242798125056 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:04:02 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=5872142704967680 	mukundareddy94@gmail.com 	active 	14/07/2015 21:04:54 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=5252573808295936 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (168, 269) A [Tag Name :A] undefined 	14/07/2015 21:04:55 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=6464397220249600 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:04:55 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389502
+id=6378473715138560 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 21:05:34 	Window 	
+id=4666820262887424 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 21:05:35 	Window 	
+id=4556813265534976 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 21:06:01 	Window 	
+id=5215446500376576 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (667, 173) H1 [Tag Name :H1] undefined 	14/07/2015 21:06:14 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389502
+id=6221681639030784 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:06:14 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=5057022336696320 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 21:07:19 	Window 	
+id=5799271605469184 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined MOUSE3: Mouse clicked! (447, 147) H1 [Tag Name :H1] undefined 	14/07/2015 21:07:21 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=5871476985036800 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 21:07:21 	Tab 	https://s3.amazonaws.com/udacity-hosted-downloads/lesson2.zip
+id=4729196072927232 	mukundareddy94@gmail.com 	Tab Switched 	14/07/2015 21:07:23 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=4727531236229120 	mukundareddy94@gmail.com 	Window maximized 	14/07/2015 21:07:25 	Window 	
+id=5682713172377600 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:14:57 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389503
+id=4836574550294528 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:15:41 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-161389505
+id=4610569076211712 	mukundareddy94@gmail.com 	active 	14/07/2015 21:16:00 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-161389505
+id=6128341799141376 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:16:40 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-164015046
+id=5855095979769856 	mukundareddy94@gmail.com 	[LEFTARROW] [RIGHTARROW] [RIGHTARROW] [BACKSPACE] [BACKSPACE] [BACKSPACE] [BACKSPACE] 1 9 6 4 [BACKSPACE] [BACKSPACE] 6 4 	14/07/2015 21:19:59 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-164015046
+id=5962474457137152 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:19:59 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-161389506
+id=4592431429320704 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:20:04 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-164015046
+id=6362615085268992 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON] MOUSE3: Mouse clicked! (566, 585) BUTTON [Tag Name :BUTTON]	14/07/2015 21:20:04 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-161389506
+id=4911770837712896 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:20:11 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-161389506
+id=5520055781556224 	mukundareddy94@gmail.com 	[BACKSPACE] 5 	14/07/2015 21:20:11 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389504/m-164015046
+id=4971098831585280 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:21:21 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389507
+id=4814306755477504 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:21:55 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389507
+id=6175072653934592 	mukundareddy94@gmail.com 	active 	14/07/2015 21:22:43 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389507
+id=5394267463745536 	mukundareddy94@gmail.com 	MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined MOUSE3: Mouse clicked! (445, 629) H2 [Tag Name :H2] undefined 	14/07/2015 21:23:15 	Mouse 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389507
+id=6645955688398848 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:23:15 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389508/m-161389509
+id=6182922243538944 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:23:47 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389508/m-164365526
+id=5853431143071744 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:23:48 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389508/m-164365526
+id=6192774898515968 	mukundareddy94@gmail.com 	active 	14/07/2015 21:23:59 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389508/m-164365526
+id=4955240201715712 	mukundareddy94@gmail.com 	b c a 	14/07/2015 21:24:41 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389508/m-164365526
+id=5718331336163328 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:24:41 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161389508/m-161389510
+id=6660419527639040 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:25:05 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389511
+id=5736468983054336 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:25:42 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389511
+id=5119763218956288 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:27:10 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-177304173/m-177304174
+id=4785400014962688 	mukundareddy94@gmail.com 	active 	14/07/2015 21:27:53 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-177304173/m-177391176
+id=6245663125798912 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:27:53 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-177304173/m-177391176
+id=5624834193096704 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:27:58 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-177304173/m-177304175
+id=5236321652047872 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:28:56 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389515
+id=6750734099939328 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:28:59 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389515
+id=5619972290117632 	mukundareddy94@gmail.com 	active 	14/07/2015 21:29:11 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389515
+id=6341346407219200 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:30:30 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389515
+id=4605262107246592 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:31:12 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161389516
+id=5792720169730048 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:32:03 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593577/m-161593578
+id=5914349348585472 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:32:21 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593577/m-164615371
+id=6700287024693248 	mukundareddy94@gmail.com 	active 	14/07/2015 21:32:21 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593577/m-164615371
+id=5173519029633024 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:32:26 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593577/m-161593579
+id=6513351257489408 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:32:34 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161593580
+id=5731162014089216 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:33:08 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593581/m-161593582
+id=5290481189650432 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:33:22 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593581/m-164612528
+id=6745872196960256 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:33:29 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593581/m-161593583
+id=5911299921805312 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:33:53 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161593584
+id=5565391845720064 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:34:29 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161593584
+id=5783387205795840 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:35:28 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593585/m-161593586
+id=5399524503715840 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:35:54 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593585/m-164612529
+id=6037670744555520 	mukundareddy94@gmail.com 	active 	14/07/2015 21:35:54 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593585/m-164612529
+id=6691291752562688 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:36:00 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593585/m-161593587
+id=5220437252374528 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:36:15 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161593588
+id=5360755444547584 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:37:01 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161593588
+id=5940206662320128 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:37:24 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593590
+id=5474720791134208 	mukundareddy94@gmail.com 	active 	14/07/2015 21:37:46 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593590
+id=5309192751546368 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:38:05 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-164285783
+id=5351399395164160 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:39:32 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593590
+id=6081140108558336 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:40:19 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-164285783
+id=4545045055143936 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:41:42 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=4792814739128320 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:41:49 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-164285783
+id=5229770216308736 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:41:58 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6096998738427904 	mukundareddy94@gmail.com 	2 2 3 3 9 	14/07/2015 21:41:58 	Key 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-164285783
+id=6226333088612352 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:43:37 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593592/m-161593593
+id=5165544885977088 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:43:59 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593592/m-177985185
+id=6435092658388992 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:46:47 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593590
+id=6587078666092544 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:46:52 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-161593588
+id=4520460662341632 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:47:04 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593590
+id=5612122700513280 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:47:06 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-164285783
+id=6355670123151360 	mukundareddy94@gmail.com 	New Tab 	14/07/2015 21:47:10 	Tab 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=5348349968384000 	mukundareddy94@gmail.com 	Window -Possible Minimize 	14/07/2015 21:48:17 	Window 	
+id=5646360569184256 	mukundareddy94@gmail.com 	idle 	14/07/2015 21:49:17 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6007936685965312 	mukundareddy94@gmail.com 	active 	14/07/2015 21:51:29 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=5393981311549440 	mukundareddy94@gmail.com 	locked 	14/07/2015 21:51:34 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=5534048785006592 	mukundareddy94@gmail.com 	active 	14/07/2015 22:44:27 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=5670944961986560 	mukundareddy94@gmail.com 	idle 	14/07/2015 22:44:27 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=5518190155137024 	mukundareddy94@gmail.com 	idle 	14/07/2015 22:45:33 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=4948295239598080 	mukundareddy94@gmail.com 	active 	14/07/2015 22:47:41 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=4757491317473280 	mukundareddy94@gmail.com 	idle 	14/07/2015 22:49:46 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6600620697976832 	mukundareddy94@gmail.com 	active 	14/07/2015 22:49:56 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=4933971523665920 	mukundareddy94@gmail.com 	idle 	14/07/2015 22:51:58 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6525424410558464 	mukundareddy94@gmail.com 	active 	14/07/2015 22:53:24 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6035005180477440 	mukundareddy94@gmail.com 	idle 	14/07/2015 22:54:27 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6348059441102848 	mukundareddy94@gmail.com 	active 	14/07/2015 22:54:44 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=4554040327274496 	mukundareddy94@gmail.com 	idle 	14/07/2015 22:56:18 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6520167370588160 	mukundareddy94@gmail.com 	active 	14/07/2015 22:56:18 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6074195146440704 	mukundareddy94@gmail.com 	locked 	14/07/2015 22:56:20 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591
+id=6299418936475648 	mukundareddy94@gmail.com 	active 	14/07/2015 22:56:22 	Screen 	https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/e-161593589/m-161593591 

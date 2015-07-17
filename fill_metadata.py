@@ -1,8 +1,8 @@
 import csv
 
 ##Input and Output File Names
-INPUT_FILE = "veda/13072015_Veda_Raw.csv"
-OUTPUT_FILE = "veda/13072015_Veda_Processed.csv"
+INPUT_FILE = "mukunda/14072015_Mukunda_Raw.csv"
+OUTPUT_FILE = "mukunda/14072015_Mukunda_Processed.csv"
 
 ##Required Dictionaries
 url_dict = {"//www.google.com":"s","//www.google.co.in":"s", "youtube.com":"yt", "//mail.google.com":"gm"}
@@ -53,11 +53,15 @@ with open(OUTPUT_FILE,'wb') as genfw:
                 ##Timestamp truncation to HH:MM
                 row[0] = row[0][row[0].find(" ")+1:row[0].rfind(":")]
                 ##Identify No.Of Occurances based on EventType
-                if row[7] == "Mouse":
-                    row[8] = row[8].count("MOUSE3:")
-                elif row[7] == "Selected" or row[7] == "Key":
-                    row[8] = len(row[8])                
+                print "-------------",row[7],row[8]
+                if row[7].strip(' \t\r\n') == "Mouse":
+                    print "Mouse ",row[7]
+                    row[8] = row[8].strip(' \t\r\n').count("MOUSE3:")
+                elif row[7].strip(' \t\r\n') == "Selected" or row[7].strip(' \t\r\n') == "Key":
+                    row[8] = len(row[8])
+                    print "Key ",row[8]
                 genwriter.writerow(row)
+            
 print "Done !"
 print "Created output.csv file !"
 #print url_dict
