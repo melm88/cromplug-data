@@ -1,8 +1,8 @@
 import csv
 
 ##Input and Output File Names
-INPUT_FILE = "mukunda/14072015_Mukunda_Raw.csv"
-OUTPUT_FILE = "mukunda/14072015_Mukunda_Processed.csv"
+INPUT_FILE = "mukunda/18072015_Mukunda_Raw.csv"
+OUTPUT_FILE = "mukunda/18072015_Mukunda_Processed.csv"
 
 ##Required Dictionaries
 url_dict = {"//www.google.com":"s","//www.google.co.in":"s", "youtube.com":"yt", "//mail.google.com":"gm"}
@@ -57,7 +57,9 @@ with open(OUTPUT_FILE,'wb') as genfw:
                 if row[7].strip(' \t\r\n') == "Mouse":
                     print "Mouse ",row[7]
                     row[8] = row[8].strip(' \t\r\n').count("MOUSE3:")
-                elif row[7].strip(' \t\r\n') == "Selected" or row[7].strip(' \t\r\n') == "Key":
+                elif row[7].strip(' \t\r\n') == "Selected":
+                    row[8] = "1"
+                elif row[7].strip(' \t\r\n') == "Key":
                     row[8] = len(row[8])
                     print "Key ",row[8]
                 genwriter.writerow(row)

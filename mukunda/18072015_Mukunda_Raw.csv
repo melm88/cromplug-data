@@ -1,0 +1,514 @@
+TimeStamp,Course Name,Module,Problem,Duration,Content Type,Url,eventtype ,eventdata 
+18/07/2015 11:23:01,,,,,,https://www.udacity.com/wiki/cs046/code,Tab,Tab Switched
+18/07/2015 11:23:01,,,,,,,Tab,Tab Closed [TabID:551]
+18/07/2015 11:23:09,,,,,,,Window,Window maximized
+18/07/2015 11:23:26,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866,Tab,New Tab
+18/07/2015 11:23:34,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866/m-216299358,Tab,New Tab
+18/07/2015 11:23:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769,Tab,New Tab
+18/07/2015 11:23:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866/m-216299358,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 11:23:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866/m-216299358,Mouse,"MOUSE3: Mouse clicked! (439, 223) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (418, 418) A [Tag Name :A] undefined"
+18/07/2015 11:23:46,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Tab,New Tab
+18/07/2015 11:25:10,,,,,,,Window,Window -Possible Minimize
+18/07/2015 11:25:10,,,,,,,Window,Window maximized
+18/07/2015 11:27:02,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 11:27:02,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Mouse,"MOUSE3: Mouse clicked! (838, 296) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (838, 296) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (838, 296) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (257, 548) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (257, 548) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (257, 548) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (506, 378) PRE [Tag Name :PRE] undefined MOUSE3: Mouse clicked! (506, 378) PRE [Tag Name :PRE] undefined MOUSE3: Mouse clicked! (506, 378) PRE [Tag Name :PRE] undefined MOUSE3: Mouse clicked! (881, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (881, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (881, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (881, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (881, 596) BUTTON [Tag Name :BUTTON] "
+18/07/2015 11:27:02,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Selected,// TODO: Complete this constructor // TODO: Complete this constructor // TODO: Complete this constructor
+18/07/2015 11:27:02,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Tab,New Tab
+18/07/2015 11:29:32,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+18/07/2015 11:29:32,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Mouse,"MOUSE3: Mouse clicked! (552, 709) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (552, 709) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (552, 709) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (552, 709) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (552, 709) DIV [Tag Name :DIV] undefined"
+18/07/2015 11:29:51,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+18/07/2015 11:31:08,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+18/07/2015 11:37:48,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+18/07/2015 11:41:43,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+18/07/2015 11:42:52,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+18/07/2015 11:44:55,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+18/07/2015 11:48:31,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+18/07/2015 11:48:32,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+18/07/2015 14:50:57,,,,,,,Tab,Tab Closed [TabID:587]
+18/07/2015 14:50:57,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Tab,Tab Switched
+18/07/2015 14:51:13,,,,,,http://www.speedtest.net/,Tab,New Tab
+18/07/2015 14:52:18,,,,,,,Tab,Tab Closed [TabID:589]
+18/07/2015 14:52:18,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Tab,Tab Switched
+18/07/2015 14:53:22,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,idle
+18/07/2015 14:54:24,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,active
+18/07/2015 14:55:25,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,idle
+18/07/2015 14:55:29,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,active
+18/07/2015 14:55:32,,,,,,,Window,Window maximized
+18/07/2015 14:55:58,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831,Tab,New Tab
+18/07/2015 14:55:58,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Mouse,"MOUSE3: Mouse clicked! (222, 189) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (222, 189) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (222, 189) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (222, 189) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (222, 189) A [Tag Name :A] undefined"
+18/07/2015 14:56:50,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427100,Tab,New Tab
+18/07/2015 14:56:50,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831,Mouse,"MOUSE3: Mouse clicked! (733, 683) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (733, 683) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (733, 683) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (733, 683) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (733, 683) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (733, 683) DIV [Tag Name :DIV] undefined"
+18/07/2015 14:57:22,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508589,Tab,New Tab
+18/07/2015 14:57:35,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508589,Screen,idle
+18/07/2015 14:58:29,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508590,Tab,New Tab
+18/07/2015 14:59:53,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Tab,New Tab
+18/07/2015 15:00:19,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218,Tab,New Tab
+18/07/2015 15:00:21,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218,Screen,active
+18/07/2015 15:00:30,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297219,Tab,New Tab
+18/07/2015 15:01:13,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489299,Tab,New Tab
+18/07/2015 15:02:25,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300,Tab,New Tab
+18/07/2015 15:02:33,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489301,Tab,New Tab
+18/07/2015 15:02:33,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300,Selected,kolling kolling kolling kolling kolling kolling kolling kolling kolling kolling kolling kolling kolling kolling kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling Micheal kolling
+18/07/2015 15:02:59,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489303,Tab,New Tab
+18/07/2015 15:03:28,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489304,Tab,New Tab
+18/07/2015 15:03:39,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489305,Tab,New Tab
+18/07/2015 15:03:39,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489304,Mouse,"MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (885, 651) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:03:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592,Tab,New Tab
+18/07/2015 15:05:22,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592,Screen,idle
+18/07/2015 15:05:34,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592,Screen,active
+18/07/2015 15:06:06,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618,Tab,New Tab
+18/07/2015 15:06:40,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618,Screen,idle
+18/07/2015 15:07:52,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481,Tab,New Tab
+18/07/2015 15:08:12,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466,Tab,New Tab
+18/07/2015 15:08:16,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466,Screen,active
+18/07/2015 15:08:39,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482,Tab,New Tab
+18/07/2015 15:08:39,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466,Selected,println println println println println println println println println println println println println println println println println println println println println println println
+18/07/2015 15:10:30,,,,,,,Window,Window -Possible Minimize
+18/07/2015 15:10:37,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467,Tab,New Tab
+18/07/2015 15:10:46,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484,Tab,New Tab
+18/07/2015 15:10:46,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467,Mouse,"MOUSE3: Mouse clicked! (837, 618) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:10:46,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 15:11:28,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Tab,New Tab
+18/07/2015 15:12:34,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,idle
+18/07/2015 15:14:39,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,active
+18/07/2015 15:15:39,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,idle
+18/07/2015 15:16:51,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,active
+18/07/2015 15:17:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976485,Tab,New Tab
+18/07/2015 15:17:15,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Tab,New Tab
+18/07/2015 15:17:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Mouse,"MOUSE3: Mouse clicked! (535, 443) TEXTAREA [Tag Name :TEXTAREA] 39 MOUSE3: Mouse clicked! (535, 443) TEXTAREA [Tag Name :TEXTAREA] 39 MOUSE3: Mouse clicked! (535, 443) TEXTAREA [Tag Name :TEXTAREA] 39 MOUSE3: Mouse clicked! (535, 443) TEXTAREA [Tag Name :TEXTAREA] 39 MOUSE3: Mouse clicked! (535, 443) TEXTAREA [Tag Name :TEXTAREA] 39 MOUSE3: Mouse clicked! (535, 443) TEXTAREA [Tag Name :TEXTAREA] 39 MOUSE3: Mouse clicked! (843, 633) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (843, 633) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (843, 633) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (843, 633) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (843, 633) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (843, 633) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:17:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Key,[BACKSPACE] [BACKSPACE] 3 9
+18/07/2015 15:17:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976486,Tab,New Tab
+18/07/2015 15:17:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 15:18:24,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475,Tab,New Tab
+18/07/2015 15:20:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475,Mouse,"MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:20:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 15:20:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177120576,Tab,New Tab
+18/07/2015 15:21:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177120576,Mouse,"MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (888, 624) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:21:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177079651,Tab,New Tab
+18/07/2015 15:21:47,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976487,Tab,New Tab
+18/07/2015 15:22:09,,,,,,,Window,Window maximized
+18/07/2015 15:22:09,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976487,Mouse,"MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined MOUSE3: Mouse clicked! (580, 630) DIV [Tag Name :DIV] undefined"
+18/07/2015 15:22:09,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-177051170,Tab,New Tab
+18/07/2015 15:22:12,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-177051170,Mouse,"MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:22:13,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976488,Tab,New Tab
+18/07/2015 15:23:05,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976489,Tab,New Tab
+18/07/2015 15:23:13,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976489,Screen,idle
+18/07/2015 15:23:25,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176586304,Tab,New Tab
+18/07/2015 15:23:28,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176586304,Mouse,"MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (893, 627) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:23:28,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976490,Tab,New Tab
+18/07/2015 15:23:28,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976490,Screen,active
+18/07/2015 15:24:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427103,Tab,New Tab
+18/07/2015 15:24:37,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476,Tab,New Tab
+18/07/2015 15:25:12,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476,Screen,idle
+18/07/2015 15:26:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176671251,Screen,active
+18/07/2015 15:26:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176671251,Tab,New Tab
+18/07/2015 15:26:08,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976477,Tab,New Tab
+18/07/2015 15:26:27,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976478,Tab,New Tab
+18/07/2015 15:26:57,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924,Tab,New Tab
+18/07/2015 15:27:22,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924,Mouse,"MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (840, 619) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:27:22,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924,Key,o o l o k k
+18/07/2015 15:27:22,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Tab,New Tab
+18/07/2015 15:28:26,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Screen,idle
+18/07/2015 15:28:47,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Screen,active
+18/07/2015 15:29:36,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480,Tab,New Tab
+18/07/2015 15:29:36,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Mouse,"MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (920, 632) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:30:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480,Screen,idle
+18/07/2015 15:31:20,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480,Screen,active
+18/07/2015 15:32:00,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009,Tab,New Tab
+18/07/2015 15:32:14,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009,Mouse,"MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (884, 619) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:32:14,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177079653,Tab,New Tab
+18/07/2015 15:33:12,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491,Tab,New Tab
+18/07/2015 15:33:14,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491,Screen,idle
+18/07/2015 15:33:16,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491,Screen,active
+18/07/2015 15:33:52,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577,Tab,New Tab
+18/07/2015 15:34:00,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976492,Tab,New Tab
+18/07/2015 15:35:01,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976492,Screen,idle
+18/07/2015 15:35:18,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976493,Tab,New Tab
+18/07/2015 15:35:48,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Tab,New Tab
+18/07/2015 15:36:00,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Screen,active
+18/07/2015 15:36:14,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Key,[BACKSPACE] [BACKSPACE] 1 0 [ENTER] 5 [ENTER] 1 6 [ENTER] 8 [ENTER] 4 [ENTER] 2 [ENTER]
+18/07/2015 15:36:14,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Selected,"10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 10
+5
+16
+8
+4 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2 
+2"
+18/07/2015 15:36:14,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976494,Tab,New Tab
+18/07/2015 15:36:18,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976495,Tab,New Tab
+18/07/2015 15:37:09,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684,Tab,New Tab
+18/07/2015 15:38:41,,,,,,,Window,Window -Possible Minimize
+18/07/2015 15:38:48,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496,Tab,New Tab
+18/07/2015 15:39:24,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 15:39:24,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496,Mouse,"MOUSE3: Mouse clicked! (925, 594) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:39:24,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976497,Tab,New Tab
+18/07/2015 15:39:55,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795,Tab,New Tab
+18/07/2015 15:40:01,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795,Mouse,"MOUSE3: Mouse clicked! (855, 590) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (855, 590) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (855, 590) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:40:01,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ group0: 0 [radio]
+[object HTMLInputElement]~ group0: 1 [radio]
+[object HTMLInputElement]~ group0: 2 [radio]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ group0: 0 [radio]
+[object HTMLInputElement]~ group0: 1 [radio]
+[object HTMLInputElement]~ group0: 2 [radio]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ group0: 0 [radio]
+[object HTMLInputElement]~ group0: 1 [radio]
+[object HTMLInputElement]~ group0: 2 [radio]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 15:40:01,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976498,Tab,New Tab
+18/07/2015 15:40:47,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499,Tab,New Tab
+18/07/2015 15:41:09,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499,Screen,idle
+18/07/2015 15:41:11,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499,Screen,active
+18/07/2015 15:41:12,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-177034270,Tab,New Tab
+18/07/2015 15:41:15,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-177034270,Mouse,"MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:41:15,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500,Tab,New Tab
+18/07/2015 15:41:40,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500,Mouse,"MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (917, 592) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:41:40,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101,Tab,New Tab
+18/07/2015 15:41:40,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 15:42:27,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ feedbackReason: other [radio]
+"
+18/07/2015 15:42:27,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830,Tab,New Tab
+18/07/2015 15:42:27,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101,Mouse,"MOUSE3: Mouse clicked! (933, 605) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (933, 605) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (933, 605) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (933, 605) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (933, 605) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (933, 605) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:42:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Tab,New Tab
+18/07/2015 15:42:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830,Mouse,"MOUSE3: Mouse clicked! (909, 332) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (909, 332) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (909, 332) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (909, 332) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (909, 332) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (909, 332) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (909, 332) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:42:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830,Mouse,"MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+ MOUSE2: [object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+[object HTMLInputElement]~ :  [text]
+"
+18/07/2015 15:42:56,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002,Tab,New Tab
+18/07/2015 15:43:01,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Mouse,"MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (381, 114) A [Tag Name :A] undefined"
+18/07/2015 15:43:01,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Tab,New Tab
+18/07/2015 15:43:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Mouse,"MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (541, 117) A [Tag Name :A] undefined"
+18/07/2015 15:43:04,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Tab,New Tab
+18/07/2015 15:43:06,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Mouse,"MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined MOUSE3: Mouse clicked! (444, 127) A [Tag Name :A] undefined"
+18/07/2015 15:43:06,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Tab,New Tab
+18/07/2015 15:43:09,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Mouse,"MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 592) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (895, 596) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:43:09,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Tab,New Tab
+18/07/2015 15:43:13,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Mouse,"MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (859, 599) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (903, 597) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:43:13,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265356/m-211265357,Tab,New Tab
+18/07/2015 15:43:20,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Tab,New Tab
+18/07/2015 15:43:20,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265356/m-211265357,Mouse,"MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (844, 606) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (934, 594) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:43:38,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Mouse,"MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (849, 600) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (906, 594) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON]  MOUSE3: Mouse clicked! (924, 349) BUTTON [Tag Name :BUTTON] "
+18/07/2015 15:43:38,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800,Tab,New Tab
+18/07/2015 15:43:40,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Tab,New Tab
+18/07/2015 15:44:55,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,idle
+18/07/2015 15:46:54,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,active
+18/07/2015 15:48:09,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,idle
+18/07/2015 15:48:41,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,active
+18/07/2015 15:48:56,,,,,,,Window,Window maximized
+18/07/2015 15:50:54,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,idle
+18/07/2015 15:51:01,,,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,active
+18/07/2015 15:52:01,,,,,,,Window,Window -Possible Minimize
+18/07/2015 15:52:01,,,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+18/07/2015 15:52:01,,,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+18/07/2015 15:52:08,,,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+18/07/2015 15:52:09,,,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+18/07/2015 15:52:15,,,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+18/07/2015 15:52:15,,,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+18/07/2015 15:52:51,,,,,,http://activity-log-tmt.apspot.com/getdigistate,Tab,New Tab
+18/07/2015 15:52:51,,,,,,http://activity-log-tmt.apspot.com/getdigistate,Tab,New Tab
+18/07/2015 15:52:58,,,,,,http://activity-log-tmt.apspot.com/getdigistatedata,Tab,New Tab
+18/07/2015 15:52:58,,,,,,http://activity-log-tmt.apspot.com/getdigistatedata,Tab,New Tab
+18/07/2015 15:53:09,,,,,,http://activity-log-tmt.apspot.com/getdigistatedata,Screen,locked

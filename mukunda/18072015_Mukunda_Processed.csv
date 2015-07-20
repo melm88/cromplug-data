@@ -1,0 +1,192 @@
+Timestamp,Course Name,Module,Problem,Duration,Content Type,URL,Event Type,Event Data
+11:23,,other,,,,https://www.udacity.com/wiki/cs046/code,Tab,Tab Switched
+11:23,,,,,,,Tab,Tab Closed [TabID:551]
+11:23,,,,,,,Window,Window maximized
+11:23,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866,Tab,New Tab
+11:23,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866/m-216299358,Tab,New Tab
+11:23,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769,Tab,New Tab
+11:23,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866/m-216299358,Mouse,0
+11:23,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-192345866/m-216299358,Mouse,2
+11:23,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Tab,New Tab
+11:25,,,,,,,Window,Window -Possible Minimize
+11:25,,,,,,,Window,Window maximized
+11:27,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Mouse,0
+11:27,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Mouse,14
+11:27,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-188982564,Selected,104
+11:27,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Tab,New Tab
+11:29,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+11:29,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Mouse,5
+11:29,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+11:31,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+11:37,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+11:41,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+11:42,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+11:44,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+11:48,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,idle
+11:48,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-183784769/e-186954476/m-186954478,Screen,active
+14:50,,,,,,,Tab,Tab Closed [TabID:587]
+14:50,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Tab,Tab Switched
+14:51,,other,,,,http://www.speedtest.net/,Tab,New Tab
+14:52,,,,,,,Tab,Tab Closed [TabID:589]
+14:52,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Tab,Tab Switched
+14:53,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,idle
+14:54,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,active
+14:55,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,idle
+14:55,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Screen,active
+14:55,,,,,,,Window,Window maximized
+14:55,Java,1,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831,Tab,New Tab
+14:55,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Mouse,5
+14:56,Java,2,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427100,Tab,New Tab
+14:56,Java,1,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422831,Mouse,6
+14:57,Java,3,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508589,Tab,New Tab
+14:57,Java,3,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508589,Screen,idle
+14:58,Java,4,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508590,Tab,New Tab
+14:59,Java,5,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297217,Tab,New Tab
+15:00,Java,5,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218,Tab,New Tab
+15:00,Java,5,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297218,Screen,active
+15:00,Java,5,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-212297216/m-212297219,Tab,New Tab
+15:01,Java,6,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489299,Tab,New Tab
+15:02,Java,6,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300,Tab,New Tab
+15:02,Java,6,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489301,Tab,New Tab
+15:02,Java,6,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489298/m-213489300,Selected,359
+15:02,Java,7,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489303,Tab,New Tab
+15:03,Java,7,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489304,Tab,New Tab
+15:03,Java,7,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489305,Tab,New Tab
+15:03,Java,7,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-213489302/m-213489304,Mouse,17
+15:03,Java,8,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592,Tab,New Tab
+15:05,Java,8,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592,Screen,idle
+15:05,Java,8,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212508592,Screen,active
+15:06,Java,9,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618,Tab,New Tab
+15:06,Java,9,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-212548618,Screen,idle
+15:07,Java,10,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976481,Tab,New Tab
+15:08,Java,10,,,programming,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466,Tab,New Tab
+15:08,Java,10,,,programming,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466,Screen,active
+15:08,Java,10,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-176976482,Tab,New Tab
+15:08,Java,10,,,programming,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171508/m-177255466,Selected,183
+15:10,,,,,,,Window,Window -Possible Minimize
+15:10,Java,11,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467,Tab,New Tab
+15:10,Java,11,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-176976484,Tab,New Tab
+15:10,Java,11,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467,Mouse,1
+15:10,Java,11,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177034951/m-177255467,Mouse,0
+15:11,Java,12,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Tab,New Tab
+15:12,Java,12,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,idle
+15:14,Java,12,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,active
+15:15,Java,12,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,idle
+15:16,Java,12,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-176976474,Screen,active
+15:17,Java,13,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976485,Tab,New Tab
+15:17,Java,13,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Tab,New Tab
+15:17,Java,13,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Mouse,12
+15:17,Java,13,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Key,27
+15:17,Java,13,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-176976486,Tab,New Tab
+15:17,Java,13,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177222410/m-177191715,Mouse,0
+15:18,Java,14,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475,Tab,New Tab
+15:20,Java,14,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475,Mouse,7
+15:20,Java,14,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-176976475,Mouse,0
+15:20,Java,14,,,mcq,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177120576,Tab,New Tab
+15:21,Java,14,,,mcq,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177120576,Mouse,8
+15:21,Java,14,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079650/m-177079651,Tab,New Tab
+15:21,Java,15,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976487,Tab,New Tab
+15:22,,,,,,,Window,Window maximized
+15:22,Java,15,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976487,Mouse,9
+15:22,Java,15,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-177051170,Tab,New Tab
+15:22,Java,15,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-177051170,Mouse,10
+15:22,Java,15,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176644158/m-176976488,Tab,New Tab
+15:23,Java,16,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976489,Tab,New Tab
+15:23,Java,16,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976489,Screen,idle
+15:23,Java,16,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176586304,Tab,New Tab
+15:23,Java,16,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176586304,Mouse,11
+15:23,Java,16,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976490,Tab,New Tab
+15:23,Java,16,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067862/m-176976490,Screen,active
+15:24,Java,17,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427103,Tab,New Tab
+15:24,Java,18,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476,Tab,New Tab
+15:25,Java,18,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976476,Screen,idle
+15:26,Java,18,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176671251,Screen,active
+15:26,Java,18,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176671251,Tab,New Tab
+15:26,Java,18,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-176218235/m-176976477,Tab,New Tab
+15:26,Java,19,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976478,Tab,New Tab
+15:26,Java,19,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924,Tab,New Tab
+15:27,Java,19,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924,Mouse,17
+15:27,Java,19,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-177099924,Key,11
+15:27,Java,19,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Tab,New Tab
+15:28,Java,19,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Screen,idle
+15:28,Java,19,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Screen,active
+15:29,Java,20,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480,Tab,New Tab
+15:29,Java,19,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177171507/m-176976479,Mouse,19
+15:30,Java,20,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480,Screen,idle
+15:31,Java,20,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-176976480,Screen,active
+15:32,Java,20,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009,Tab,New Tab
+15:32,Java,20,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177044009,Mouse,23
+15:32,Java,20,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177079652/m-177079653,Tab,New Tab
+15:33,Java,21,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491,Tab,New Tab
+15:33,Java,21,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491,Screen,idle
+15:33,Java,21,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976491,Screen,active
+15:33,Java,21,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-177241577,Tab,New Tab
+15:34,Java,21,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976492,Tab,New Tab
+15:35,Java,21,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067863/m-176976492,Screen,idle
+15:35,Java,22,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976493,Tab,New Tab
+15:35,Java,22,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Tab,New Tab
+15:36,Java,22,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Screen,active
+15:36,Java,22,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Key,87
+15:36,Java,22,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-177257506,Selected,559
+15:36,Java,22,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177067864/m-176976494,Tab,New Tab
+15:36,Java,23,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976495,Tab,New Tab
+15:37,Java,23,,,quiz,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-177134684,Tab,New Tab
+15:38,,,,,,,Window,Window -Possible Minimize
+15:38,Java,23,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496,Tab,New Tab
+15:39,Java,23,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496,Mouse,0
+15:39,Java,23,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109724/m-176976496,Mouse,1
+15:39,Java,24,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976497,Tab,New Tab
+15:39,Java,24,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795,Tab,New Tab
+15:40,Java,24,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795,Mouse,3
+15:40,Java,24,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176175795,Mouse,0
+15:40,Java,24,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177109725/m-176976498,Tab,New Tab
+15:40,Java,25,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499,Tab,New Tab
+15:41,Java,25,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499,Screen,idle
+15:41,Java,25,,,quiz_video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976499,Screen,active
+15:41,Java,25,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-177034270,Tab,New Tab
+15:41,Java,25,,,radio,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-177034270,Mouse,5
+15:41,Java,25,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500,Tab,New Tab
+15:41,Java,25,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500,Mouse,5
+15:41,Java,26,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101,Tab,New Tab
+15:41,Java,25,,,quiz_answer,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/e-177179588/m-176976500,Mouse,0
+15:42,Java,26,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101,Mouse,0
+15:42,Java,27,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830,Tab,New Tab
+15:42,Java,26,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-179427101,Mouse,6
+15:42,Java,4,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Tab,New Tab
+15:42,Java,27,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830,Mouse,7
+15:42,Java,27,,,video,https://www.udacity.com/course/viewer#!/c-cs046/l-176475143/m-178422830,Mouse,0
+15:42,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002,Tab,New Tab
+15:43,Java,4,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Mouse,8
+15:43,Java,1,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Tab,New Tab
+15:43,Java,1,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Mouse,8
+15:43,Java,2,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Tab,New Tab
+15:43,Java,2,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Mouse,8
+15:43,Java,1,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Tab,New Tab
+15:43,Java,1,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546108/m-213546109,Mouse,16
+15:43,Java,2,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Tab,New Tab
+15:43,Java,2,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-213546110/m-213308035,Mouse,16
+15:43,Java,3,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265356/m-211265357,Tab,New Tab
+15:43,Java,4,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Tab,New Tab
+15:43,Java,3,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265356/m-211265357,Mouse,16
+15:43,Java,4,,,problem_set,https://www.udacity.com/course/viewer#!/c-cs046/l-211641002/e-211265358/m-211265359,Mouse,24
+15:43,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800,Tab,New Tab
+15:43,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Tab,New Tab
+15:44,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,idle
+15:46,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,active
+15:48,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,idle
+15:48,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,active
+15:48,,,,,,,Window,Window maximized
+15:50,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,idle
+15:51,,other,,,,https://www.udacity.com/course/viewer#!/c-cs046/l-161445800/m-178537761,Screen,active
+15:52,,,,,,,Window,Window -Possible Minimize
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getforekey,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getdigistate,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getdigistate,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getdigistatedata,Tab,New Tab
+15:52,,other,,,,http://activity-log-tmt.apspot.com/getdigistatedata,Tab,New Tab
+15:53,,other,,,,http://activity-log-tmt.apspot.com/getdigistatedata,Screen,locked
